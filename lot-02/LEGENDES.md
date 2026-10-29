@@ -31,7 +31,7 @@ Quiz CPE : quel texte fixe aujourd'hui les missions du CPE ? A, B ou C ? Répond
 
 ### Samedi 31 octobre : Bourdieu et la reproduction sociale
 
-Une notion, un auteur : Bourdieu et la reproduction sociale. L'école transforme les inégalités sociales en inégalités scolaires, par le capital culturel. Pour problématiser l'égalité des chances dans une copie, puis nuancer avec Boudon ou Dubet. Tous les auteurs et notions clés sont dans la fiche 31 de Prep'CPE. Lien en bio.
+Une notion, un auteur : Bourdieu et la reproduction sociale. L'école transforme les inégalités sociales en inégalités scolaires, par le capital culturel. Pour problématiser l'égalité des chances dans une copie, puis nuancer avec Boudon ou Dubet. Tous les auteurs et notions clés sont dans la fiche 31 de Prep'CPE. Et toi, tu cites plutôt Bourdieu, Boudon ou Dubet dans tes copies ? Dis-le en commentaire. Lien en bio.
 
 #concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #sciencesdeleducation #bourdieu
 
@@ -43,13 +43,13 @@ Comment citer un auteur dans une copie ? Une référence, c'est trois éléments
 
 ### Lundi 2 novembre : Les missions du CPE : 7 missions, 3 domaines
 
-Les missions du CPE en 30 secondes : 3 domaines, 7 missions (M1 à M7), fixées par la circulaire n° 2015-139 du 10 août 2015. Enregistre ce post pour tes révisions. La fiche 1 complète, avec les compétences du référentiel, est sur Prep'CPE. Lien en bio.
+Les missions du CPE en 30 secondes : 3 domaines, 7 missions (M1 à M7), fixées par la circulaire n° 2015-139 du 10 août 2015. Enregistre ce post pour tes révisions. La fiche 1 complète, avec les compétences du référentiel, est sur Prep'CPE. Quelle mission te pose le plus de difficultés, de M1 à M7 ? Dis-le en commentaire. Lien en bio.
 
 #concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #missions #circulaire2015
 
 ### Mardi 3 novembre : Du surveillant général au CPE, en 4 dates
 
-Du surveillant général au CPE en 4 dates : 1847, 1970, 2013, 2015. À connaître pour l'oral et pour les copies sur le métier. Le détail est dans la fiche 1 de Prep'CPE. Lien en bio.
+Du surveillant général au CPE en 4 dates : 1847, 1970, 2013, 2015. À connaître pour l'oral et pour les copies sur le métier. Le détail est dans la fiche 1 de Prep'CPE. Laquelle de ces dates te manquait ? Dis-le en commentaire. Lien en bio.
 
 #concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #histoire #metier
 
@@ -61,7 +61,7 @@ Quiz CPE : qui peut prononcer une punition scolaire ? A, B ou C ? Réponds en co
 
 ### Jeudi 5 novembre : Le programme pHARe en 5 piliers
 
-Le programme pHARe en 5 piliers : sensibiliser, constituer une communauté protectrice, agir efficacement, associer les parents, mobiliser les instances. Et deux points à retenir pour le jury : pas de médiation entre victime et auteur, procédure disciplinaire obligatoire. Fiche 14 sur Prep'CPE. Lien en bio.
+Le programme pHARe en 5 piliers : sensibiliser, constituer une communauté protectrice, agir efficacement, associer les parents, mobiliser les instances. Et deux points à retenir pour le jury : pas de médiation entre victime et auteur, procédure disciplinaire obligatoire. Fiche 14 sur Prep'CPE. Lequel des 5 piliers te semble le plus difficile à mettre en œuvre dans un établissement ? Réponds en commentaire. Lien en bio.
 
 #concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #harcelement #phare #climatscolaire
 
@@ -73,7 +73,7 @@ Situation de jury : un lundi matin, la mère d'une élève de 5e vous appelle. S
 
 ### Samedi 7 novembre : Charlot et le rapport au savoir
 
-Une notion, un auteur : le rapport au savoir de Bernard Charlot. La relation de l'élève au fait d'apprendre, qui explique des réussites « paradoxales ». À relier à la sociologie de l'expérience de Dubet et Martuccelli. Les auteurs et notions clés sont dans la fiche 31 de Prep'CPE. Lien en bio.
+Une notion, un auteur : le rapport au savoir de Bernard Charlot. La relation de l'élève au fait d'apprendre, qui explique des réussites « paradoxales ». À relier à la sociologie de l'expérience de Dubet et Martuccelli. Les auteurs et notions clés sont dans la fiche 31 de Prep'CPE. Et toi, quel auteur te parle le plus pour le décrochage ? Dis-le en commentaire. Lien en bio.
 
 #concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #sciencesdeleducation #charlot
 
@@ -85,13 +85,13 @@ Bilan de la semaine : 5 choses à retenir, puis un mini-défi. Explique à voix 
 
 ### Lundi 9 novembre : Punitions et sanctions : ne plus les confondre
 
-Punitions et sanctions : ne plus les confondre. Qui décide, quels faits, quels recours, et l'échelle des 6 sanctions de l'article R. 511-13. Enregistre ce post pour tes révisions : c'est un classique des écrits et de l'oral. Fiche 16 complète sur Prep'CPE. Lien en bio.
+Punitions et sanctions : ne plus les confondre. Qui décide, quels faits, quels recours, et l'échelle des 6 sanctions de l'article R. 511-13. Enregistre ce post pour tes révisions : c'est un classique des écrits et de l'oral. Fiche 16 complète sur Prep'CPE. Qu'est-ce qui te pose le plus de difficultés : l'échelle des sanctions ou la procédure ? Réponds en commentaire. Lien en bio.
 
 #concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #sanctions #reglementinterieur #climatscolaire
 
 ### Mardi 10 novembre : La loi du 15 mars 2004
 
-Le texte du jour : la loi du 15 mars 2004 sur les signes religieux ostensibles (art. L. 141-5-1 du Code de l'éducation). Avant toute procédure disciplinaire, un dialogue avec l'élève et sa famille est obligatoire. Tous les textes et situations de la laïcité sont dans la fiche 7 de Prep'CPE. Lien en bio.
+Le texte du jour : la loi du 15 mars 2004 sur les signes religieux ostensibles (art. L. 141-5-1 du Code de l'éducation). Avant toute procédure disciplinaire, un dialogue avec l'élève et sa famille est obligatoire. Tous les textes et situations de la laïcité sont dans la fiche 7 de Prep'CPE. Quelle situation de laïcité te paraît la plus délicate à gérer ? Dis-le en commentaire. Lien en bio.
 
 #concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #laicite #loi2004
 
@@ -103,6 +103,6 @@ Quiz CPE : un élève porte un signe religieux ostensible. Que prévoit la loi d
 
 ### Jeudi 12 novembre : Valeurs de la République et laïcité
 
-Valeurs de la République et laïcité : deux régimes à distinguer. Les personnels sont soumis à une stricte neutralité, les élèves ont la liberté de conscience mais pas de signe ostensible. Les textes, les situations fréquentes et les réponses sont dans la fiche 7 de Prep'CPE. Lien en bio.
+Valeurs de la République et laïcité : deux régimes à distinguer. Les personnels sont soumis à une stricte neutralité, les élèves ont la liberté de conscience mais pas de signe ostensible. Les textes, les situations fréquentes et les réponses sont dans la fiche 7 de Prep'CPE. Quelle est ta question sur la laïcité qui revient le plus souvent à l'oral ? Pose-la en commentaire. Lien en bio.
 
 #concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #laicite #valeursdelarepublique

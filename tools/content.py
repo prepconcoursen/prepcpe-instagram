@@ -39,7 +39,7 @@ POSTS = [
              dict(kind="list", kicker="DANS UNE COPIE", title="À quoi ça sert ?",
                   lines=["Problématiser l'égalité des chances.", "Nuancer avec Boudon (stratégies individuelles) ou Dubet (expérience scolaire)."], numbered=False),
              cta(31)],
-         caption="Une notion, un auteur : Bourdieu et la reproduction sociale. L'école transforme les inégalités sociales en inégalités scolaires, par le capital culturel. Pour problématiser l'égalité des chances dans une copie, puis nuancer avec Boudon ou Dubet. Tous les auteurs et notions clés sont dans la fiche 31 de Prep'CPE. Lien en bio.\n\n" + H + " #sciencesdeleducation #bourdieu"),
+         caption="Une notion, un auteur : Bourdieu et la reproduction sociale. L'école transforme les inégalités sociales en inégalités scolaires, par le capital culturel. Pour problématiser l'égalité des chances dans une copie, puis nuancer avec Boudon ou Dubet. Tous les auteurs et notions clés sont dans la fiche 31 de Prep'CPE. Et toi, tu cites plutôt Bourdieu, Boudon ou Dubet dans tes copies ? Dis-le en commentaire. Lien en bio.\n\n" + H + " #sciencesdeleducation #bourdieu"),
     dict(n=3, date="2026-11-01", day="Dimanche 1er novembre", kind="Méthode", fiche=31, style="s3",
          music=dict(bpm=68, root=52, prog="maj_b", seed=33, lead=False),
          slides=[
@@ -65,7 +65,7 @@ POSTS = [
              dict(kind="list", kicker="LE TEXTE À CITER", title="Circulaire n° 2015-139 du 10 août 2015",
                   lines=["Le CPE est un cadre éducatif : ni adjoint du chef d'établissement, ni enseignant."], numbered=False),
              cta(1)],
-         caption="Les missions du CPE en 30 secondes : 3 domaines, 7 missions (M1 à M7), fixées par la circulaire n° 2015-139 du 10 août 2015. Enregistre ce post pour tes révisions. La fiche 1 complète, avec les compétences du référentiel, est sur Prep'CPE. Lien en bio.\n\n" + H + " #missions #circulaire2015"),
+         caption="Les missions du CPE en 30 secondes : 3 domaines, 7 missions (M1 à M7), fixées par la circulaire n° 2015-139 du 10 août 2015. Enregistre ce post pour tes révisions. La fiche 1 complète, avec les compétences du référentiel, est sur Prep'CPE. Quelle mission te pose le plus de difficultés, de M1 à M7 ? Dis-le en commentaire. Lien en bio.\n\n" + H + " #missions #circulaire2015"),
     dict(n=5, date="2026-11-03", day="Mardi 3 novembre", kind="Repères", fiche=1, style="s4",
          music=dict(bpm=72, root=55, prog="min_b", seed=55, lead=True),
          slides=[
@@ -80,7 +80,7 @@ POSTS = [
              dict(kind="list", kicker="À LIRE", title="Christine Focquenoy",
                   lines=["Le passage du surveillant général au CPE et le « mythe du surgé » (bibliographie 2027)."], numbered=False),
              cta(1)],
-         caption="Du surveillant général au CPE en 4 dates : 1847, 1970, 2013, 2015. À connaître pour l'oral et pour les copies sur le métier. Le détail est dans la fiche 1 de Prep'CPE. Lien en bio.\n\n" + H + " #histoire #metier"),
+         caption="Du surveillant général au CPE en 4 dates : 1847, 1970, 2013, 2015. À connaître pour l'oral et pour les copies sur le métier. Le détail est dans la fiche 1 de Prep'CPE. Laquelle de ces dates te manquait ? Dis-le en commentaire. Lien en bio.\n\n" + H + " #histoire #metier"),
     dict(n=6, date="2026-11-04", day="Mercredi 4 novembre", kind="Quiz", fiche=16, style="s2",
          music=dict(bpm=74, root=60, prog="maj_a", seed=66, lead=True),
          slides=[
@@ -101,7 +101,7 @@ POSTS = [
              dict(kind="list", kicker="LES DEUX ERREURS À NE PAS FAIRE", title="À retenir pour le jury",
                   lines=["Pas de médiation entre la victime et l'auteur.", "Procédure disciplinaire obligatoire (décret du 16 août 2023)."], numbered=False),
              cta(14)],
-         caption="Le programme pHARe en 5 piliers : sensibiliser, constituer une communauté protectrice, agir efficacement, associer les parents, mobiliser les instances. Et deux points à retenir pour le jury : pas de médiation entre victime et auteur, procédure disciplinaire obligatoire. Fiche 14 sur Prep'CPE. Lien en bio.\n\n" + H + " #harcelement #phare #climatscolaire"),
+         caption="Le programme pHARe en 5 piliers : sensibiliser, constituer une communauté protectrice, agir efficacement, associer les parents, mobiliser les instances. Et deux points à retenir pour le jury : pas de médiation entre victime et auteur, procédure disciplinaire obligatoire. Fiche 14 sur Prep'CPE. Lequel des 5 piliers te semble le plus difficile à mettre en œuvre dans un établissement ? Réponds en commentaire. Lien en bio.\n\n" + H + " #harcelement #phare #climatscolaire"),
     dict(n=8, date="2026-11-06", day="Vendredi 6 novembre", kind="Situation de jury", fiche=14, style="s1",
          music=dict(bpm=72, root=53, prog="maj_b", seed=88, lead=False),
          slides=[
@@ -125,7 +125,7 @@ POSTS = [
              dict(kind="list", kicker="LA MÉTHODE", title="Définir avant d'argumenter",
                   lines=["Une notion bien définie en introduction structure toute la copie."], numbered=False),
              cta(31)],
-         caption="Une notion, un auteur : le rapport au savoir de Bernard Charlot. La relation de l'élève au fait d'apprendre, qui explique des réussites « paradoxales ». À relier à la sociologie de l'expérience de Dubet et Martuccelli. Les auteurs et notions clés sont dans la fiche 31 de Prep'CPE. Lien en bio.\n\n" + H + " #sciencesdeleducation #charlot"),
+         caption="Une notion, un auteur : le rapport au savoir de Bernard Charlot. La relation de l'élève au fait d'apprendre, qui explique des réussites « paradoxales ». À relier à la sociologie de l'expérience de Dubet et Martuccelli. Les auteurs et notions clés sont dans la fiche 31 de Prep'CPE. Et toi, quel auteur te parle le plus pour le décrochage ? Dis-le en commentaire. Lien en bio.\n\n" + H + " #sciencesdeleducation #charlot"),
     dict(n=10, date="2026-11-08", day="Dimanche 8 novembre", kind="Bilan", fiche=None, style="s2",
          music=dict(bpm=66, root=64, prog="maj_c", seed=101, lead=True),
          slides=[
@@ -149,7 +149,7 @@ POSTS = [
              dict(kind="list", kicker="TOUTE SANCTION RESPECTE", title="6 principes",
                   lines=["Légalité", "Contradictoire", "Proportionnalité", "Individualisation", "« Non bis in idem »", "Motivation"], small=True),
              cta(16)],
-         caption="Punitions et sanctions : ne plus les confondre. Qui décide, quels faits, quels recours, et l'échelle des 6 sanctions de l'article R. 511-13. Enregistre ce post pour tes révisions : c'est un classique des écrits et de l'oral. Fiche 16 complète sur Prep'CPE. Lien en bio.\n\n" + H + " #sanctions #reglementinterieur #climatscolaire"),
+         caption="Punitions et sanctions : ne plus les confondre. Qui décide, quels faits, quels recours, et l'échelle des 6 sanctions de l'article R. 511-13. Enregistre ce post pour tes révisions : c'est un classique des écrits et de l'oral. Fiche 16 complète sur Prep'CPE. Qu'est-ce qui te pose le plus de difficultés : l'échelle des sanctions ou la procédure ? Réponds en commentaire. Lien en bio.\n\n" + H + " #sanctions #reglementinterieur #climatscolaire"),
     dict(n=12, date="2026-11-10", day="Mardi 10 novembre", kind="Texte du jour", fiche=7, style="s3",
          music=dict(bpm=71, root=55, prog="min_a", seed=121, lead=True),
          slides=[
@@ -161,7 +161,7 @@ POSTS = [
              dict(kind="list", kicker="À SAVOIR", title="Note de service du 31 août 2023",
                   lines=["L'abaya et le qamis relèvent de cette interdiction.", "Validé par le Conseil d'État le 7 septembre 2023."], numbered=False),
              cta(7)],
-         caption="Le texte du jour : la loi du 15 mars 2004 sur les signes religieux ostensibles (art. L. 141-5-1 du Code de l'éducation). Avant toute procédure disciplinaire, un dialogue avec l'élève et sa famille est obligatoire. Tous les textes et situations de la laïcité sont dans la fiche 7 de Prep'CPE. Lien en bio.\n\n" + H + " #laicite #loi2004"),
+         caption="Le texte du jour : la loi du 15 mars 2004 sur les signes religieux ostensibles (art. L. 141-5-1 du Code de l'éducation). Avant toute procédure disciplinaire, un dialogue avec l'élève et sa famille est obligatoire. Tous les textes et situations de la laïcité sont dans la fiche 7 de Prep'CPE. Quelle situation de laïcité te paraît la plus délicate à gérer ? Dis-le en commentaire. Lien en bio.\n\n" + H + " #laicite #loi2004"),
     dict(n=13, date="2026-11-11", day="Mercredi 11 novembre", kind="Quiz", fiche=7, style="s4",
          music=dict(bpm=75, root=61, prog="maj_b", seed=131, lead=True),
          slides=[
@@ -184,7 +184,7 @@ POSTS = [
              dict(kind="list", kicker="LE RÔLE DU CPE", title="Faire vivre les valeurs",
                   lines=["Expliquer le sens de la laïcité aux élèves et aux familles.", "Organiser la journée du 9 décembre."], numbered=False),
              cta(7)],
-         caption="Valeurs de la République et laïcité : deux régimes à distinguer. Les personnels sont soumis à une stricte neutralité, les élèves ont la liberté de conscience mais pas de signe ostensible. Les textes, les situations fréquentes et les réponses sont dans la fiche 7 de Prep'CPE. Lien en bio.\n\n" + H + " #laicite #valeursdelarepublique"),
+         caption="Valeurs de la République et laïcité : deux régimes à distinguer. Les personnels sont soumis à une stricte neutralité, les élèves ont la liberté de conscience mais pas de signe ostensible. Les textes, les situations fréquentes et les réponses sont dans la fiche 7 de Prep'CPE. Quelle est ta question sur la laïcité qui revient le plus souvent à l'oral ? Pose-la en commentaire. Lien en bio.\n\n" + H + " #laicite #valeursdelarepublique"),
 ]
 
 if __name__ == "__main__":
