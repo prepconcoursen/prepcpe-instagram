@@ -6,20 +6,20 @@ Chaque Reel dure 22 à 33 secondes, format 1080 × 1920, avec un morceau lofi in
 
 | Jour | Reel | Type | Fiche | Style | Vidéo |
 | --- | --- | --- | --- | --- | --- |
-| Vendredi 30 octobre | Teste-toi en 20 secondes | Quiz | 1 | bleu | [vidéo](https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-02/prepcpe_01.mp4) |
-| Samedi 31 octobre | Bourdieu et la reproduction sociale | Notion | 31 | clair | [vidéo](https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-02/prepcpe_02.mp4) |
-| Dimanche 1er novembre | Comment citer un auteur dans une copie ? | Méthode | 31 | sombre | [vidéo](https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-02/prepcpe_03.mp4) |
-| Lundi 2 novembre | Les missions du CPE : 7 missions, 3 domaines | Fiche | 1 | bleu | [vidéo](https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-02/prepcpe_04.mp4) |
-| Mardi 3 novembre | Du surveillant général au CPE, en 4 dates | Repères | 1 | crème | [vidéo](https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-02/prepcpe_05.mp4) |
-| Mercredi 4 novembre | Punition ou sanction ? | Quiz | 16 | clair | [vidéo](https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-02/prepcpe_06.mp4) |
-| Jeudi 5 novembre | Le programme pHARe en 5 piliers | Fiche | 14 | sombre | [vidéo](https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-02/prepcpe_07.mp4) |
-| Vendredi 6 novembre | Que faites-vous ? | Situation de jury | 14 | bleu | [vidéo](https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-02/prepcpe_08.mp4) |
-| Samedi 7 novembre | Charlot et le rapport au savoir | Notion | 31 | crème | [vidéo](https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-02/prepcpe_09.mp4) |
-| Dimanche 8 novembre | 5 choses à retenir | Bilan | - | clair | [vidéo](https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-02/prepcpe_10.mp4) |
-| Lundi 9 novembre | Punitions et sanctions : ne plus les confondre | Fiche | 16 | bleu | [vidéo](https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-02/prepcpe_11.mp4) |
-| Mardi 10 novembre | La loi du 15 mars 2004 | Texte du jour | 7 | sombre | [vidéo](https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-02/prepcpe_12.mp4) |
-| Mercredi 11 novembre | Laïcité : le bon réflexe | Quiz | 7 | crème | [vidéo](https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-02/prepcpe_13.mp4) |
-| Jeudi 12 novembre | Valeurs de la République et laïcité | Fiche | 7 | clair | [vidéo](https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-02/prepcpe_14.mp4) |
+| Vendredi 30 octobre | Teste-toi en 20 secondes | Quiz | 1 | bleu | [vidéo](https://github.com/prepconcoursen/prepcpe-instagram/blob/main/lot-02/prepcpe_01.mp4) |
+| Samedi 31 octobre | Bourdieu et la reproduction sociale | Notion | 31 | clair | [vidéo](https://github.com/prepconcoursen/prepcpe-instagram/blob/main/lot-02/prepcpe_02.mp4) |
+| Dimanche 1er novembre | Comment citer un auteur dans une copie ? | Méthode | 31 | sombre | [vidéo](https://github.com/prepconcoursen/prepcpe-instagram/blob/main/lot-02/prepcpe_03.mp4) |
+| Lundi 2 novembre | Les missions du CPE : 7 missions, 3 domaines | Fiche | 1 | bleu | [vidéo](https://github.com/prepconcoursen/prepcpe-instagram/blob/main/lot-02/prepcpe_04.mp4) |
+| Mardi 3 novembre | Du surveillant général au CPE, en 4 dates | Repères | 1 | crème | [vidéo](https://github.com/prepconcoursen/prepcpe-instagram/blob/main/lot-02/prepcpe_05.mp4) |
+| Mercredi 4 novembre | Punition ou sanction ? | Quiz | 16 | clair | [vidéo](https://github.com/prepconcoursen/prepcpe-instagram/blob/main/lot-02/prepcpe_06.mp4) |
+| Jeudi 5 novembre | Le programme pHARe en 5 piliers | Fiche | 14 | sombre | [vidéo](https://github.com/prepconcoursen/prepcpe-instagram/blob/main/lot-02/prepcpe_07.mp4) |
+| Vendredi 6 novembre | Que faites-vous ? | Situation de jury | 14 | bleu | [vidéo](https://github.com/prepconcoursen/prepcpe-instagram/blob/main/lot-02/prepcpe_08.mp4) |
+| Samedi 7 novembre | Charlot et le rapport au savoir | Notion | 31 | crème | [vidéo](https://github.com/prepconcoursen/prepcpe-instagram/blob/main/lot-02/prepcpe_09.mp4) |
+| Dimanche 8 novembre | 5 choses à retenir | Bilan | - | clair | [vidéo](https://github.com/prepconcoursen/prepcpe-instagram/blob/main/lot-02/prepcpe_10.mp4) |
+| Lundi 9 novembre | Punitions et sanctions : ne plus les confondre | Fiche | 16 | bleu | [vidéo](https://github.com/prepconcoursen/prepcpe-instagram/blob/main/lot-02/prepcpe_11.mp4) |
+| Mardi 10 novembre | La loi du 15 mars 2004 | Texte du jour | 7 | sombre | [vidéo](https://github.com/prepconcoursen/prepcpe-instagram/blob/main/lot-02/prepcpe_12.mp4) |
+| Mercredi 11 novembre | Laïcité : le bon réflexe | Quiz | 7 | crème | [vidéo](https://github.com/prepconcoursen/prepcpe-instagram/blob/main/lot-02/prepcpe_13.mp4) |
+| Jeudi 12 novembre | Valeurs de la République et laïcité | Fiche | 7 | clair | [vidéo](https://github.com/prepconcoursen/prepcpe-instagram/blob/main/lot-02/prepcpe_14.mp4) |
 
 ## Légendes à copier-coller
 
