@@ -27,7 +27,7 @@ for p in posts:
     muet = f'video/prepcpe_{n:02d}_muet.mp4'
     run(['ffmpeg', '-y', *inp, '-filter_complex', f.rstrip(';') if k > 1 else '[0:v]null[v1]', '-map', prev if k > 1 else '[v1]', '-t', f'{total:.2f}', '-c:v', 'libx264', '-preset', 'medium', '-crf', '20', '-pix_fmt', 'yuv420p', '-r', str(FPS), '-an', '-movflags', '+faststart', muet])
     final = f'video/prepcpe_{n:02d}.mp4'
-    af = f"atrim=0:{total:.2f},afade=t=in:d=0.4,afade=t=out:st={total-1.8:.2f}:d=1.8,loudnorm=I={os.environ.get("LOUD","-17")}:TP=-1.5:LRA=7"
+    af = f"atrim=0:{total:.2f},afade=t=in:d=0.4,afade=t=out:st={total-1.8:.2f}:d=1.8,loudnorm=I={os.environ.get('LOUD','-17')}:TP=-1.5:LRA=7"
     run(['ffmpeg', '-y', '-i', muet, '-i', f'audio/m{n:02d}.wav', '-filter_complex', f'[1:a]{af},aresample=44100[a]', '-map', '0:v', '-map', '[a]', '-t', f'{total:.2f}', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '160k', '-ac', '2', '-movflags', '+faststart', final])
     for c in clips: os.remove(c)
     print(n, f'{total:.1f}s', os.path.getsize(final) // 1024, 'Ko')
