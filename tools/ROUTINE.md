@@ -12,3 +12,4 @@ Compte : @prep_concours_cpe (IG id 17841441275723815). Jeton Page injecté par l
 ## Chaque dimanche : préparer la semaine suivante
 Si moins de 8 Reels restent à publier : créer le lot suivant (`lot-03`, etc.) de 7 Reels, un par jour, avec le même moteur (`tools/` : content.py, render.js, music.py, build.py ; voir lot-02 pour le format). Contenu issu des fiches du site https://prep-cpe.netlify.app, en alternant quiz, notion, méthode, repères, situation de jury, bilan ; styles s1 à s4 en alternance ; une musique lofi différente par Reel. Ne rien affirmer que les fiches ne disent pas. Générer vidéos + `LEGENDES.md` (même format que lot-02), pousser sur main.
 Lot 3 : build avec LOUD=-28 (musique discrète).
+Musiques ambiantes : music3.py + LOUD=-30 (lot 3).
