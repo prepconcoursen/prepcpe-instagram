@@ -24,6 +24,7 @@ def render(params, seconds=34, out='track.wav'):
     pad = np.zeros(N); sub = np.zeros(N); kick = np.zeros(N); hats = np.zeros(N); clap = np.zeros(N); arp = np.zeros(N); duck = np.ones(N)
     nbars = int(seconds / bar) + 1
     sixt = beat / 4
+    KICK = params.get('kick', 'four'); HATS = params.get('hats', 2); ARP = params.get('arp', 16); BASS = params.get('bass', 'sync'); KEYS = params.get('keys', False); DENS = params.get('dens', 0.72); START = params.get('start', 2)
     for b in range(nbars):
         off, qual = prog[b % 4]; base = root + off
         notes = [base + iv for iv in QUAL[qual]] + [base + 14]
@@ -31,41 +32,48 @@ def render(params, seconds=34, out='track.wav'):
         if n <= 0: break
         tt = np.arange(n) / SR
         env = np.minimum(1, tt / 0.5) * np.minimum(1, (bar * 1.02 - tt) / 0.5)
-        for m in notes:
+        if KEYS:
+            from music import epiano
+            for hit in (0, 2):
+                for k, m in enumerate(notes[:4]):
+                    add(pad, i0 + int((hit * beat + k * 0.012) * SR), 0.20 * epiano(hz(m), 2.2, 1.0))
+        for m in ([] if KEYS else notes):
             for det in (-0.09, 0.0, 0.1):
                 f = hz(m - 12) * 2 ** (det / 12); ph = rng.random() * 6.28
                 w_ = np.sin(2 * np.pi * f * tt + ph) + 0.5 * np.sin(4 * np.pi * f * tt + ph) + 0.25 * np.sin(6 * np.pi * f * tt + ph)
                 pad[i0:i0 + n] += 0.035 * env * w_
-        if b >= 1:
+        if b >= 1 and BASS != 'off':
             bn = base - 24 if base - 24 >= 28 else base - 12
             for step in range(8):
-                if step % 2 == 1 or step == 0:
+                if (BASS == 'sync' and (step % 2 == 1 or step == 0)) or (BASS == 'root' and step in (0, 5)):
                     ts = t0 + step * beat / 2; ln = int(SR * beat * 0.42); t = np.arange(ln) / SR
                     e = np.minimum(1, t / 0.008) * np.exp(-t * 3.5)
                     add(sub, int(ts * SR), 0.32 * e * (np.sin(2 * np.pi * hz(bn) * t) + 0.18 * np.sin(4 * np.pi * hz(bn) * t)))
         for bi in range(4):
             ts = t0 + bi * beat; i = int(ts * SR)
-            if b >= 2 and i < N:
+            kickhit = KICK != 'none' and ((KICK == 'four') or (KICK == 'half' and bi in (0, 2)) or (KICK == 'broken' and bi in (0, 2)))
+            if b >= START and i < N and kickhit:
                 ln = int(SR * 0.3); t = np.arange(ln) / SR
                 f = 48 + 100 * np.exp(-t * 32)
                 add(kick, i, 0.55 * np.sin(2 * np.pi * np.cumsum(f) / SR) * np.exp(-t * 8))
                 d = min(int(SR * 0.28), N - i)
                 duck[i:i + d] = np.minimum(duck[i:i + d], 0.35 + 0.65 * (np.arange(d) / int(SR * 0.28)) ** 0.8)
-                if bi in (1, 3):
+                if bi in (1, 3) and KICK != 'half':
                     ln = int(SR * 0.18); t = np.arange(ln) / SR
                     add(clap, i, 0.10 * hp(rng.normal(0, 1, ln), 1200) * np.exp(-t * 22))
-            if b >= 1:
-                for s4 in range(4):
+            if b >= 1 and HATS:
+                for s4 in (range(4) if HATS == 2 else (2,)):
                     i2 = int((ts + s4 * sixt + (0.012 if s4 % 2 else 0)) * SR); op = s4 == 2
                     ln = int(SR * (0.16 if op else 0.04)); t = np.arange(ln) / SR
                     v = (0.05 if op else 0.025) * (0.7 + 0.6 * rng.random())
                     add(hats, i2, v * hp(rng.normal(0, 1, ln), 7000) * np.exp(-t * (28 if op else 90)))
-        if b >= 2:
+        if b >= START and ARP:
             tones = [x + 12 for x in notes] + [x + 24 for x in notes[:3]]
             seq = rng.choice(len(tones), 16)
-            for s in range(16):
-                if rng.random() < 0.72:
-                    ts = t0 + s * sixt; ln = int(SR * 0.33); t = np.arange(ln) / SR; f = hz(tones[int(seq[s])])
+            stp = bar / ARP
+            for s in range(ARP):
+                if rng.random() < DENS:
+                    ts = t0 + s * stp; ln = int(SR * 0.33); t = np.arange(ln) / SR; f = hz(tones[int(seq[s])])
                     pl = (np.sin(2 * np.pi * f * t) + 0.4 * np.sin(4 * np.pi * f * t) * np.exp(-t * 14) + 0.2 * np.sin(6 * np.pi * f * t) * np.exp(-t * 20)) * np.exp(-t * 9) * np.minimum(1, t / 0.003)
                     add(arp, int(ts * SR), (0.09 if s % 4 == 0 else 0.06) * pl)
     pad = (lp(pad, 900, 2) * 0.6 + lp(pad, 2600) * 0.4) * (0.55 + 0.45 * np.clip(T / 6, 0, 1))
