@@ -15,3 +15,5 @@ Lot 3 : build avec LOUD=-28 (musique discrète).
 Musiques ambiantes : music3.py + LOUD=-30 (lot 3).
 
 Règle de légende (demande de Tanguy, 2026-10-29) : chaque légende se termine par une question qui invite à répondre en commentaire (avant « Lien en bio. »). Pour les nouveaux lots, respecter cette règle.
+
+Règle de cohérence (remarque de Tanguy, 2026-10-30) : les fiches mises en avant suivent un ordre lisible, un thème par semaine puis fiche suivante dans l'ordre des numéros (1, 2, 3, 4…), au lieu de sauter d'une fiche à l'autre. Les quiz d'une semaine portent sur les fiches de cette semaine ; le bilan du dimanche les récapitule.
