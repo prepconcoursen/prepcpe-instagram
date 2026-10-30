@@ -1,0 +1,5 @@
+tools/audio/
+tools/out/
+tools/video/
+tools/posts.json
+__pycache__/

@@ -21,3 +21,7 @@ Règle de cohérence (échange avec Tanguy, 2026-10-30) : un thème par semaine,
 Rappels d'inscription (demande de Tanguy, 2026-10-30) : en plus de la série, deux Reels `rappels/` sont publiés par des tâches planifiées dédiées le 18 novembre (J-7) et le 24 novembre (J-1) 2026 à 12 h, via `VIDEO_URL=<raw rappels/...> tools/publish_reel.sh x x "<légende>"`. Ne pas les inclure dans le calendrier quotidien.
 
 Calendrier du lot 2 avancé d'un jour (demande de Tanguy, 2026-10-30) : le Reel 2 (Bourdieu) est publié le soir du 30 octobre à 17h49 (publication manuelle par Claude), puis un Reel par jour : le 31 octobre = Reel 3, etc. jusqu'au 11 novembre = Reel 14. Un Reel est considéré comme publié s'il figure dans PUBLISHED.log (lot et numéro) : ne jamais republier un Reel déjà au journal.
+
+Lot 4 (2026-10-30) : 7 Reels du 12 au 18 novembre (fiche 8, discriminations), générés avec tools/content_lot04.py et la palette musicale élargie tools/music4.py (styles lofi, ambient, piano, pluck, pulse ; demande de Tanguy : varier davantage la musique d'un Reel à l'autre). Pour les prochains lots, utiliser music4.py et alterner les styles.
+
+Musique du lot 2 refaite (2026-10-30, demande de Tanguy : varier davantage d'un Reel à l'autre) : Reels 3 à 14 remixés avec tools/remix_lot02.py (palette music4.py), vidéos muettes inchangées. Les Reels 1 et 2 étaient déjà publiés.
