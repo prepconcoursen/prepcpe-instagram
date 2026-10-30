@@ -105,7 +105,7 @@ function duration(sl) {
 (async () => {
   fs.mkdirSync(OUT, { recursive: true });
   const b = await chromium.launch();
-  const p = await b.newPage({ viewport: { width: 1080, height: 1920 } });
+  const p = await b.newPage({ viewport: { width: 1080, height: 1920 }, deviceScaleFactor: 3 });
   const durs = {};
   for (const post of posts) {
     const st = STYLES[post.style];
@@ -115,7 +115,7 @@ function duration(sl) {
     for (let i = 0; i < post.slides.length; i++) {
       const sl = post.slides[i];
       const foot = `<div class="foot"><div class="l"><span class="lg">${logoRaw}</span>@prep_concours_cpe</div><div>${post.fiche ? 'Fiche ' + post.fiche : ''}</div></div>`;
-      await p.setContent(`<style>${css(st)}</style><body><div class="flag"></div>${inner(sl)}${sl.kind === 'cta' ? '' : foot}</body>`);
+      await p.setContent(`<style>${css(st)}</style><body>${inner(sl)}${sl.kind === 'cta' ? '' : foot}</body>`);
       await p.waitForTimeout(60);
       await p.screenshot({ path: path.join(dir, `s${i + 1}.png`) });
       durs[post.n].push(Number(duration(sl).toFixed(2)));
