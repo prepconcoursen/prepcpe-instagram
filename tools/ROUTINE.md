@@ -17,3 +17,5 @@ Musiques ambiantes : music3.py + LOUD=-30 (lot 3).
 Règle de légende (demande de Tanguy, 2026-10-29) : chaque légende se termine par une question qui invite à répondre en commentaire (avant « Lien en bio. »). Pour les nouveaux lots, respecter cette règle.
 
 Règle de cohérence (échange avec Tanguy, 2026-10-30) : un thème par semaine, puis le thème suivant dans l'ordre des fiches, avec des formats variés (quiz, notion ou auteur, repère, situation de jury, fiche, bilan le dimanche). Les quiz de la semaine portent sur les fiches du thème, le bilan les récapitule. Pas de saut aléatoire d'une fiche à l'autre, mais pas de monotonie non plus.
+
+Rappels d'inscription (demande de Tanguy, 2026-10-30) : en plus de la série, deux Reels `rappels/` sont publiés par des tâches planifiées dédiées le 18 novembre (J-7) et le 24 novembre (J-1) 2026 à 12 h, via `VIDEO_URL=<raw rappels/...> tools/publish_reel.sh x x "<légende>"`. Ne pas les inclure dans le calendrier quotidien.
