@@ -40,7 +40,7 @@ h2{font-size:84px;line-height:1.02;font-weight:900;letter-spacing:-2.5px;margin-
 .opt{display:flex;gap:28px;align-items:center}
 .opt b{flex:0 0 82px;height:82px;border-radius:50%;background:${st.acc};color:${st.onacc};font-size:46px;font-weight:900;display:flex;align-items:center;justify-content:center}
 .letter{width:300px;height:300px;border-radius:50%;background:${st.acc};color:${st.onacc};font-size:210px;font-weight:900;display:flex;align-items:center;justify-content:center;margin:0 0 50px;transform:rotate(-8deg);box-shadow:0 14px 0 rgba(0,0,0,.14)}
-.year{font-size:100px;font-weight:900;letter-spacing:-4px;color:${st.acc};flex:0 0 270px;line-height:1}
+.year{font-size:84px;font-weight:900;letter-spacing:-3px;color:${st.acc};flex:0 0 300px;line-height:1;white-space:nowrap}
 .tl{border-left:10px solid ${st.acc};padding-left:36px;margin-left:10px}
 .tl .item{margin-bottom:46px;align-items:center}
 .col h3{font-family:'JetBrains Mono',monospace;font-size:32px;letter-spacing:3px;color:${st.acc};margin-bottom:16px}
@@ -62,7 +62,7 @@ function inner(sl) {
   const k = sl.kicker ? `<div class="kicker">${esc(sl.kicker)}</div>` : '';
   switch (sl.kind) {
     case 'cover':
-      return `<div class="stk">${esc((sl.kicker || 'Prep\'CPE').split('·')[0].trim())}</div><div class="wrap">${k}<h1 style="font-size:${titleSize(sl.title)}px">${esc(sl.title)}</h1>${sl.note ? `<div class="note">${esc(sl.note)}</div>` : ''}</div>`;
+      const stk = (sl.kicker || 'Prep\'CPE').split('·')[0].trim(); return `<div class="stk" style="font-size:${stk.length > 10 ? 30 : 40}px">${esc(stk)}</div><div class="wrap">${k}<h1 style="font-size:${titleSize(sl.title)}px">${esc(sl.title)}</h1>${sl.note ? `<div class="note">${esc(sl.note)}</div>` : ''}</div>`;
     case 'list': {
       const num = sl.numbered !== false;
       const items = sl.lines.map((t, i) => {

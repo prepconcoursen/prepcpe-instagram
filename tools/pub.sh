@@ -1,7 +1,7 @@
 #!/bin/bash
 # usage: pub.sh single IMG CAPTION | pub.sh carousel CAPTION IMG...
 IG=17841441275723815; API=https://graph.facebook.com/v26.0
-BASE=https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-01
+BASE=${BASE:-https://raw.githubusercontent.com/prepconcoursen/prepcpe-instagram/main/lot-01}
 j() { python3 -c "import sys,json;d=json.load(sys.stdin);print(d.get('id') or d)"; }
 wait_ready() { for i in $(seq 1 20); do s=$(curl -sS "$API/$1?fields=status_code" | python3 -c "import sys,json;print(json.load(sys.stdin).get('status_code'))"); [ "$s" = FINISHED ] && return 0; sleep 3; done; echo "not ready: $s" >&2; return 1; }
 if [ "$1" = single ]; then
