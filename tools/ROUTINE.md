@@ -16,4 +16,4 @@ Musiques ambiantes : music3.py + LOUD=-30 (lot 3).
 
 Règle de légende (demande de Tanguy, 2026-10-29) : chaque légende se termine par une question qui invite à répondre en commentaire (avant « Lien en bio. »). Pour les nouveaux lots, respecter cette règle.
 
-Règle de cohérence (remarque de Tanguy, 2026-10-30) : les fiches mises en avant suivent un ordre lisible, un thème par semaine puis fiche suivante dans l'ordre des numéros (1, 2, 3, 4…), au lieu de sauter d'une fiche à l'autre. Les quiz d'une semaine portent sur les fiches de cette semaine ; le bilan du dimanche les récapitule.
+Règle de cohérence (échange avec Tanguy, 2026-10-30) : un thème par semaine, puis le thème suivant dans l'ordre des fiches, avec des formats variés (quiz, notion ou auteur, repère, situation de jury, fiche, bilan le dimanche). Les quiz de la semaine portent sur les fiches du thème, le bilan les récapitule. Pas de saut aléatoire d'une fiche à l'autre, mais pas de monotonie non plus.
