@@ -16,8 +16,8 @@ Vous préparez quel concours : externe, interne ou 3e concours ? Dites-le en com
 
 ## Message privé à envoyer (un seul message)
 
-Bonjour bonjour ! Merci pour votre commentaire 💙 Voici le fascicule des 31 fiches : https://drive.google.com/file/d/1daRTynDBRu1_Gi6UOSe0GGNequKgqDvP/view?usp=sharing
-
-Comme toutes les ressources du site, je l'offre à tout le monde, mais cela a un coût pour les faire vivre. Si vous le souhaitez et que vous le pouvez, un don de quelques euros couvrirait ces frais, et je vous en serais reconnaissant : prep-cpe.netlify.app/don
+Bonjour bonjour ! Merci pour votre commentaire 💙 Voici le fascicule des 31 fiches. Comme toutes les ressources du site, je l'offre à tout le monde, mais cela a un coût pour les faire vivre. Si vous le souhaitez et que vous le pouvez, un don de quelques euros couvrirait ces frais, et je vous en serais reconnaissant : prep-cpe.netlify.app/don
 
 Bonne préparation !
+
+https://drive.google.com/file/d/1daRTynDBRu1_Gi6UOSe0GGNequKgqDvP/view?usp=sharing
