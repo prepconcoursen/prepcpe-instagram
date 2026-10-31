@@ -1,6 +1,6 @@
 # Post carrousel : merci pour un don (3 images, 1080 × 1350)
 
-En attente de validation de Tanguy. Pas encore publié. À confirmer : l'accord de Karima pour citer son prénom.
+Publié le 31 octobre 2026.
 
 ## Légende
 
