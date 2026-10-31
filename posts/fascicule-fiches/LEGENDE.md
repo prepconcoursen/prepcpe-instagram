@@ -8,7 +8,7 @@ En attente de validation de Tanguy. Pas encore publié. Le PDF doit d'abord avoi
 
 Pour le recevoir : commentez FICHES sous ce post et je vous l'envoie en message privé.
 
-Prep'CPE reste gratuit, alors que l'on trouve parfois des fiches de préparation vendues plus de 100 € ailleurs. Cela a un coût (outils, hébergement) : quelques euros par personne suffisent à le couvrir, et un don est toujours facultatif 💙 Lien du site en bio.
+Prep'CPE reste gratuit, alors que l'on trouve parfois des fiches de préparation vendues plus de 100 € ailleurs. Cela a un coût (outils, hébergement) : quelques euros par personne suffisent à le couvrir, et un don est toujours facultatif 💙 Le lien du don est dans la bio.
 
 Vous préparez quel concours : externe, interne ou 3e concours ? Dites-le en commentaire, avec le mot FICHES.
 
