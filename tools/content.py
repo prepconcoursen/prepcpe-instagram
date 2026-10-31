@@ -47,7 +47,7 @@ POSTS = [
              dict(kind="list", kicker="LA RÈGLE", title="Une référence, c'est 3 éléments",
                   lines=["L'auteur.", "Son idée, en une phrase.", "Ce qu'elle change dans un EPLE."]),
              dict(kind="list", kicker="UN EXEMPLE", title="Hannah Arendt",
-                  lines=["L'autorité est un pouvoir reconnu comme légitime, sans force ni persuasion.", "Le CPE fonde son autorité sur la légitimité du cadre."], numbered=False),
+                  lines=["L'autorité est un pouvoir reconnu comme légitime, sans force ni persuasion.", "Le CPE fonde son autorité sur la légitimité du cadre qu'il doit rendre explicite aux élèves."], numbered=False),
              dict(kind="list", kicker="À ÉVITER", title="Les deux pièges",
                   lines=["Un catalogue de noms sans lien avec l'argument.", "Oublier les auteurs de la bibliographie officielle 2027."]),
              cta(31)],
