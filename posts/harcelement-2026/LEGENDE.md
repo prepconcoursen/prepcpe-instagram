@@ -1,6 +1,6 @@
 # Post carrousel : harcèlement et cyberharcèlement 2026 (6 images, 1080 × 1350)
 
-En attente de validation de Tanguy. Pas encore publié.
+Publié le 31 octobre 2026.
 
 ## Légende
 
