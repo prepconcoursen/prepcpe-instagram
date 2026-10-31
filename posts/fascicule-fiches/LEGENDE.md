@@ -1,6 +1,6 @@
 # Post carrousel : le fascicule des 31 fiches (3 images, 1080 × 1350)
 
-En attente de validation de Tanguy. Pas encore publié. Le PDF doit d'abord avoir un lien public pour le DM.
+Publié le 31 octobre 2026.
 
 ## Légende
 
