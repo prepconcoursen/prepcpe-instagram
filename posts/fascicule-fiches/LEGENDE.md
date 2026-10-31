@@ -14,10 +14,10 @@ Vous préparez quel concours : externe, interne ou 3e concours ? Dites-le en com
 
 #concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #fiches #gratuit
 
-## Messages privés à envoyer (2 messages)
+## Message privé à envoyer (un seul message)
 
-Message 1 :
-Bonjour bonjour ! Merci pour votre commentaire 💙 Voici le fascicule des 31 fiches : [lien du PDF]
+Bonjour bonjour ! Merci pour votre commentaire 💙 Voici le fascicule des 31 fiches : https://drive.google.com/file/d/1daRTynDBRu1_Gi6UOSe0GGNequKgqDvP/view?usp=sharing
 
-Message 2 :
-Je l'offre à toutes et tous, mais il a un coût pour le faire vivre. Si vous le souhaitez et que vous le pouvez, un don de quelques euros couvrirait ces frais, et je vous en serais reconnaissant : prep-cpe.netlify.app/don
+Comme toutes les ressources du site, je l'offre à tout le monde, mais cela a un coût pour les faire vivre. Si vous le souhaitez et que vous le pouvez, un don de quelques euros couvrirait ces frais, et je vous en serais reconnaissant : prep-cpe.netlify.app/don
+
+Bonne préparation !
