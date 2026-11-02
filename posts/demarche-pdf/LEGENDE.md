@@ -1,6 +1,6 @@
 # Post carrousel : la démarche du PDF des 31 fiches (4 images, 1080 × 1350)
 
-Brouillon, non publié. Images : 01.jpg à 04.jpg.
+Publié le 2 novembre 2026. Images : 01.jpg à 04.jpg.
 
 ## Légende
 
