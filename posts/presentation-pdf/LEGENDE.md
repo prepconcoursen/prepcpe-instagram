@@ -1,6 +1,6 @@
 # Post carrousel : présentation du PDF des 31 fiches (6 images, 1080 × 1350)
 
-NON PUBLIÉ : en attente de l'accord de Tanguy. Images : 01.jpg à 06.jpg.
+Publié le 2 novembre 2026 : https://www.instagram.com/p/DfQUHekD9Bj/ Images : 01.jpg à 06.jpg.
 
 ## Légende
 
