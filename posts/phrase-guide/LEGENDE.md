@@ -1,6 +1,6 @@
-# Post carrousel : « la phrase qui guide votre action » (3 images, 1080 × 1350)
+# Post carrousel : « la phrase qui guide votre action » (4 images, 1080 × 1350)
 
-NON PUBLIÉ : en attente de l'accord de Tanguy. Images : 01.jpg à 03.jpg. PDF de l'affiche : /mnt/project-files/propositions/post-phrase-guide/L111-1-Code-de-l-education.pdf
+NON PUBLIÉ : en attente de l'accord de Tanguy. Images : 01.jpg à 04.jpg. PDF de l'affiche : /mnt/project-files/propositions/post-phrase-guide/L111-1-Code-de-l-education.pdf
 
 ## Légende
 
@@ -9,6 +9,8 @@ On a tous une phrase qui guide notre action d'éducateur, même sans l'avoir jam
 Si vous deviez en afficher une dans votre bureau, ce serait laquelle ? Une citation, un article de loi, un mot d'élève, d'un collègue ou d'un auteur…
 
 La mienne, c'est mon affiche : « Tous les enfants partagent la capacité d'apprendre et de progresser » (article L111-1 du Code de l'éducation).
+
+Pour un CPE, croire en l'éducabilité de tous nos élèves n'est pas de l'angélisme : c'est ce qui permet d'être exigeant, de poser un cadre et de ne jamais lâcher un élève.
 
 Dites-moi la vôtre en commentaire 👇 Le lien de mon affiche en PDF est dans les commentaires.
 
