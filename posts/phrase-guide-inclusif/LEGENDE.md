@@ -1,6 +1,6 @@
 # Post carrousel : « la phrase qui guide votre action » (4 images, 1080 × 1350), version inclusive
 
-NON PUBLIÉ : version corrigée (éducateur ou éducatrice), en attente de l'accord de Tanguy. Remplace le post https://www.instagram.com/p/DfSouAFFzJv/ (à supprimer à la main avant de republier).
+Publié le 3 novembre 2026 : https://www.instagram.com/p/DfSp7Xwl7SQ/ (remplace DfSouAFFzJv).
 
 ## Légende
 
