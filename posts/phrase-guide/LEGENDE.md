@@ -8,7 +8,7 @@ On a tous une phrase qui guide notre action d'éducateur, même sans l'avoir jam
 
 Si vous deviez en afficher une dans votre bureau, ce serait laquelle ? Une citation, un article de loi, un mot d'élève, d'un collègue ou d'un auteur…
 
-La mienne : « Tous les enfants partagent la capacité d'apprendre et de progresser » (article L111-1 du Code de l'éducation).
+La mienne, c'est mon affiche : « Tous les enfants partagent la capacité d'apprendre et de progresser » (article L111-1 du Code de l'éducation).
 
 Dites-moi la vôtre en commentaire 👇 Et si vous voulez l'affiche de la mienne en PDF, écrivez « PDF » en commentaire ou en message privé, je vous l'envoie.
 
