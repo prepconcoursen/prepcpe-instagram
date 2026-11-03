@@ -1,6 +1,6 @@
 # Post carrousel : « la phrase qui guide votre action » (4 images, 1080 × 1350)
 
-NON PUBLIÉ : en attente de l'accord de Tanguy. Images : 01.jpg à 04.jpg. PDF de l'affiche : /mnt/project-files/propositions/post-phrase-guide/L111-1-Code-de-l-education.pdf
+Publié le 3 novembre 2026 : https://www.instagram.com/p/DfSouAFFzJv/ Images : 01.jpg à 04.jpg. PDF de l'affiche : /mnt/project-files/propositions/post-phrase-guide/L111-1-Code-de-l-education.pdf
 
 ## Légende
 
