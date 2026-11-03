@@ -1,6 +1,6 @@
 # Post carrousel : « la phrase qui guide votre action » (4 images, 1080 × 1350), version inclusive
 
-NON PUBLIÉ (en cours de publication).
+Publié le 3 novembre 2026 : https://www.instagram.com/p/DfSqmEFF5X3/
 
 ## Légende
 
