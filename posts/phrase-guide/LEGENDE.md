@@ -10,10 +10,10 @@ Si vous deviez en afficher une dans votre bureau, ce serait laquelle ? Une citat
 
 La mienne, c'est mon affiche : « Tous les enfants partagent la capacité d'apprendre et de progresser » (article L111-1 du Code de l'éducation).
 
-Dites-moi la vôtre en commentaire 👇 Et si vous voulez l'affiche de la mienne en PDF, écrivez « PDF » en commentaire ou en message privé, je vous l'envoie.
+Dites-moi la vôtre en commentaire 👇 Le lien de mon affiche en PDF est dans les commentaires.
 
 #concourscpe #cpe2027 #conseillerprincipaldeducation #viescolaire #education #citation
 
 ## Rappel
 
-Envoi du PDF par message privé à la main. Les commentaires des autres comptes restent à lire et à liker par Tanguy.
+Après publication, poster à la main en premier commentaire le lien de l'affiche en PDF (à héberger, par exemple Drive en lecture seule ; je peux préparer le lien si tu me le donnes). Les commentaires des autres comptes restent à lire et à liker par Tanguy.
