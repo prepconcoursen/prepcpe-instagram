@@ -62,7 +62,7 @@ function inner(sl) {
   const k = sl.kicker ? `<div class="kicker">${esc(sl.kicker)}</div>` : '';
   switch (sl.kind) {
     case 'cover':
-      const stk = (sl.kicker || 'Prep\'CPE').split('·')[0].trim(); return `<div class="stk" style="font-size:${stk.length > 10 ? 30 : 40}px">${esc(stk)}</div><div class="wrap">${k}<h1 style="font-size:${titleSize(sl.title)}px">${esc(sl.title)}</h1>${sl.note ? `<div class="note">${esc(sl.note)}</div>` : ''}</div>`;
+      const stk = (sl.kicker || 'Prep\'CPE').split('·')[0].trim(); return `<div class="stk" style="font-size:${stk.length > 10 ? 30 : 40}px">${esc(stk)}</div><div class="wrap">${k}<h1 style="font-size:${titleSize(sl.title)}px">${esc(sl.title).replace(/(\S+-\S+)/g, '<span style="white-space:nowrap">$1</span>')}</h1>${sl.note ? `<div class="note">${esc(sl.note)}</div>` : ''}</div>`;
     case 'list': {
       const num = sl.numbered !== false;
       const items = sl.lines.map((t, i) => {
