@@ -1,0 +1,3 @@
+Un apport de la bibliographie, relié à la pratique : Benoît Galand, Le harcèlement à l'école. Mythes et réalités (Retz, 2021). Trois critères : la répétition, le déséquilibre des forces, l'isolement de la victime. C'est un phénomène de groupe : agir sur les témoins est le levier le plus efficace. En EPLE, cela donne pas de médiation entre la victime et l'auteur, la protection de la victime d'abord, un travail éducatif avec l'auteur et le groupe, et l'attention aux signaux faibles. À retrouver dans la fiche 14 de Prep'CPE. Et toi, quel signal faible repérerais-tu en premier ? Dis-le en commentaire. Lien en bio.
+
+#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #harcelement #galand
