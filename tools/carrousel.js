@@ -12,6 +12,10 @@ const STYLES = {
   s1: { bg: '#000091', fg: '#f3ede1', acc: '#d1ab55', muted: 'rgba(243,237,225,.78)', card: 'rgba(255,255,255,.10)', cardfg: '#f3ede1', cardb: 'rgba(243,237,225,.45)', onacc: '#000091', logoBg: '#f3ede1', logoFg: '#000091', logoGold: '#d1ab55' },
   s2: { bg: '#f3ede1', fg: '#0a0a5c', acc: '#e1000f', muted: '#55557f', card: '#ffffff', cardfg: '#0a0a5c', cardb: '#0a0a5c', onacc: '#fff', logoBg: '#000091', logoFg: '#fff', logoGold: '#d1ab55' },
   s3: { bg: '#07074a', fg: '#f3ede1', acc: '#d1ab55', muted: 'rgba(243,237,225,.75)', card: 'rgba(255,255,255,.08)', cardfg: '#f3ede1', cardb: 'rgba(243,237,225,.4)', onacc: '#07074a', logoBg: '#f3ede1', logoFg: '#07074a', logoGold: '#d1ab55' },
+  s5: { bg: '#0f4c45', fg: '#f6efe0', acc: '#ff8a5c', muted: 'rgba(246,239,224,.78)', card: 'rgba(255,255,255,.10)', cardfg: '#f6efe0', cardb: 'rgba(246,239,224,.45)', onacc: '#0f4c45', logoBg: '#f6efe0', logoFg: '#0f4c45', logoGold: '#ff8a5c' },
+  s6: { bg: '#f6efe0', fg: '#3b1d4a', acc: '#0f4c45', muted: '#6b5a73', card: '#ffffff', cardfg: '#3b1d4a', cardb: '#3b1d4a', onacc: '#f6efe0', logoBg: '#0f4c45', logoFg: '#f6efe0', logoGold: '#ff8a5c' },
+  s7: { bg: '#3b1d4a', fg: '#f6efe0', acc: '#ff8a5c', muted: 'rgba(246,239,224,.78)', card: 'rgba(255,255,255,.08)', cardfg: '#f6efe0', cardb: 'rgba(246,239,224,.4)', onacc: '#3b1d4a', logoBg: '#f6efe0', logoFg: '#3b1d4a', logoGold: '#ff8a5c' },
+  s8: { bg: '#ff8a5c', fg: '#3b1d4a', acc: '#0f4c45', muted: '#5a3340', card: '#ffffff', cardfg: '#3b1d4a', cardb: '#3b1d4a', onacc: '#f6efe0', logoBg: '#3b1d4a', logoFg: '#f6efe0', logoGold: '#ff8a5c' },
   s4: { bg: '#d1ab55', fg: '#0a0a5c', acc: '#000091', muted: '#3a3320', card: '#ffffff', cardfg: '#0a0a5c', cardb: '#0a0a5c', onacc: '#fff', logoBg: '#000091', logoFg: '#fff', logoGold: '#d1ab55' },
 };
 
@@ -113,12 +117,12 @@ function duration(sl) {
   const only = process.argv.slice(2);
   for (const post of posts) {
     if (only.length && !only.includes(post.slug)) continue;
-    const st = STYLES[post.style];
     const dir = path.join(OUT, post.slug);
     fs.mkdirSync(dir, { recursive: true });
     const N = post.slides.length;
     for (let i = 0; i < N; i++) {
       const sl = post.slides[i];
+      const st = STYLES[(post.styles && post.styles[i]) || post.style];
       const head = `<div class="top"><div class="brand"><i>${logoRaw}</i><span class="mono">@prep_concours_cpe</span></div><span class="mono">${post.fiche ? 'Fiche ' + post.fiche : ''}</span></div>`;
       const foot = `<div class="mono" style="position:absolute;right:70px;bottom:48px;font-size:24px;color:${st.muted}">${i + 1} / ${N}</div>`;
       await p.setContent(`<style>${css(st)}</style><body>${sl.kind === 'cta' ? '' : head}${inner(sl)}${foot}</body>`);

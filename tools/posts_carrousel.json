@@ -159,7 +159,8 @@
   "slug": "2026-11-08",
   "date": "2026-11-08",
   "fiche": 16,
-  "style": "s1",
+  "style": "s5",
+  "styles": ["s5", "s6", "s7", "s8", "s5"],
   "slides": [
    {
     "kind": "cover",
