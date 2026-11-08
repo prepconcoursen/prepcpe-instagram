@@ -25,3 +25,9 @@ Calendrier du lot 2 avancé d'un jour (demande de Tanguy, 2026-10-30) : le Reel 
 Lot 4 (2026-10-30) : 7 Reels du 12 au 18 novembre (fiche 8, discriminations), générés avec tools/content_lot04.py et la palette musicale élargie tools/music4.py (styles lofi, ambient, piano, pluck, pulse ; demande de Tanguy : varier davantage la musique d'un Reel à l'autre). Pour les prochains lots, utiliser music4.py et alterner les styles.
 
 Musique du lot 2 refaite (2026-10-30, demande de Tanguy : varier davantage d'un Reel à l'autre) : Reels 3 à 14 remixés avec tools/remix_lot02.py (palette music4.py), vidéos muettes inchangées. Les Reels 1 et 2 étaient déjà publiés.
+
+## Depuis le 2026-11-04 : carrousels sans musique, plus de Reels (demande de Tanguy : « les musiques ne vont pas du tout », « bascule tous les réels en carrousel »)
+- Les anciens Reels du calendrier sont convertis en carrousels 1080×1350 : `python3 tools/make_carrousels.py` produit `tools/posts_carrousel.json`, puis `node tools/carrousel.js [slug...]` génère `posts/auto/<date>/01.jpg… + LEGENDE.md`.
+- Calendrier : 5-11 nov (lot 2 n°8-14), 12-18 nov (lot 4), 19-28 nov (lot 3), rappels `2026-11-18-rappel-j7` et `2026-11-24-rappel-j1` à 12 h.
+- Publication : `bash tools/publish_carrousel.sh <slug>` (branche `claude/project-thread-ezz2z0`, ne pas la supprimer : les images y sont servies par raw.githubusercontent.com). Journal : `PUBLISHED.log` de cette branche, ligne `AAAA-MM-JJ posts/auto/<slug> carrousel <permalien>`.
+- Ne jamais publier de Reel avec musique sans accord de Tanguy. Publication quotidienne à 17 h 49 (Europe/Paris), sans validation préalable ; Tanguy est prévenu par la notification de la réponse finale.
