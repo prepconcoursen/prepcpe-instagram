@@ -236,7 +236,8 @@
   "slug": "2026-11-09",
   "date": "2026-11-09",
   "fiche": 7,
-  "style": "s3",
+  "style": "s7",
+  "styles": ["s7", "s8", "s5", "s6", "s7"],
   "slides": [
    {
     "kind": "cover",
