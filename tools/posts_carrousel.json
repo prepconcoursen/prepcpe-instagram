@@ -237,7 +237,7 @@
   "date": "2026-11-09",
   "fiche": 7,
   "style": "s7",
-  "styles": ["s7", "s8", "s5", "s6", "s7"],
+  "styles": ["s8", "s7", "s5", "s6", "s8"],
   "slides": [
    {
     "kind": "cover",
