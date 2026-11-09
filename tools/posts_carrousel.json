@@ -237,7 +237,7 @@
   "date": "2026-11-09",
   "fiche": 7,
   "style": "s7",
-  "styles": ["s8", "s7", "s5", "s6", "s8"],
+  "styles": ["s8", "s7", "s5", "s6", "s7", "s8"],
   "slides": [
    {
     "kind": "cover",
@@ -274,6 +274,20 @@
     "numbered": false
    },
    {
+    "kind": "list",
+    "kicker": "OUTILS ET LECTURES",
+    "title": "Faire la pédagogie de la laïcité",
+    "small": true,
+    "numbered": true,
+    "lines": [
+     "Charte de la laïcité à l'École (2013) : 15 articles à expliquer avec les élèves",
+     "Vademecum « La laïcité à l'École » : réponses aux situations concrètes",
+     "Équipe académique Valeurs de la République : appui et formation des équipes",
+     "Débat en EMC, journée du 9 décembre : faire vivre la laïcité",
+     "Bibliographie 2026 : Hennette Vauchez, Lantheaume et Urbanski"
+    ]
+   },
+   {
     "kind": "cta",
     "title": "Prep'CPE",
     "lines": [
@@ -284,7 +298,7 @@
     "note": "Lien en bio"
    }
   ],
-  "caption": "Le texte du jour : la loi du 15 mars 2004 sur les signes religieux ostensibles (art. L. 141-5-1 du Code de l'éducation). Avant toute procédure disciplinaire, un dialogue avec l'élève et sa famille est obligatoire. Tous les textes et situations de la laïcité sont dans la fiche 7 de Prep'CPE. Quelle situation de laïcité te paraît la plus délicate à gérer ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #laicite #loi2004",
+  "caption": "Le texte du jour : la loi du 15 mars 2004 sur les signes religieux ostensibles (art. L. 141-5-1 du Code de l'éducation). Avant toute procédure disciplinaire, un dialogue avec l'élève et sa famille est obligatoire. Dernière image : les outils pour faire la pédagogie de la laïcité. Tous les textes et situations sont dans la fiche 7 de Prep'CPE. Quelle situation de laïcité te paraît la plus délicate à gérer ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #laicite #loi2004",
   "title": "Mardi 10 novembre Texte du jour"
  },
  {
