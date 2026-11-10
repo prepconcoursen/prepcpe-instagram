@@ -306,7 +306,7 @@
   "slug": "2026-11-10",
   "date": "2026-11-10",
   "fiche": 7,
-  "style": "s4",
+  "style": "s7",
   "slides": [
    {
     "kind": "cover",
@@ -346,7 +346,8 @@
    }
   ],
   "caption": "Quiz CPE : un élève porte un signe religieux ostensible. Que prévoit la loi de 2004 avant toute procédure disciplinaire ? A, B ou C ? Réponds en commentaire. La fiche 7 de Prep'CPE détaille les situations fréquentes et les réponses. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #quiz #laicite",
-  "title": "Mercredi 11 novembre Quiz"
+  "title": "Mercredi 11 novembre Quiz",
+  "styles": ["s7", "s5", "s8", "s6"]
  },
  {
   "slug": "2026-11-11",
