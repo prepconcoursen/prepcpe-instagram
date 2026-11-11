@@ -375,6 +375,32 @@
    },
    {
     "kind": "list",
+    "kicker": "CODE GÉNÉRAL DE LA FONCTION PUBLIQUE",
+    "title": "Les devoirs de l'agent public",
+    "small": true,
+    "numbered": false,
+    "lines": [
+     "Dignité, impartialité, intégrité, probité (L121-1)",
+     "Neutralité et laïcité : aucune opinion ou conviction manifestée en service (L121-2)",
+     "Secret professionnel (L121-6) et discrétion (L121-7)",
+     "Obéissance hiérarchique, sauf ordre manifestement illégal (L121-10)"
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "CODE GÉNÉRAL DE LA FONCTION PUBLIQUE",
+    "title": "Les droits de l'agent public",
+    "small": true,
+    "numbered": false,
+    "lines": [
+     "Liberté d'opinion, y compris religieuse, protégée hors du service",
+     "Droit syndical (L113-1) et droit de grève (L114-1)",
+     "Protection fonctionnelle de l'employeur (L134-1)",
+     "Même l'AED contractuel est tenu à la neutralité : le CPE le rappelle et le forme"
+    ]
+   },
+   {
+    "kind": "list",
     "kicker": "LE RÔLE DU CPE",
     "title": "Faire vivre les valeurs",
     "lines": [
@@ -394,13 +420,15 @@
     "note": "Lien en bio"
    }
   ],
-  "caption": "Valeurs de la République et laïcité : deux régimes à distinguer. Les personnels sont soumis à une stricte neutralité, les élèves ont la liberté de conscience mais pas de signe ostensible. Les textes, les situations fréquentes et les réponses sont dans la fiche 7 de Prep'CPE. Quelle est ta question sur la laïcité qui revient le plus souvent à l'oral ? Pose-la en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #laicite #valeursdelarepublique",
+  "caption": "Valeurs de la République et laïcité : deux régimes à distinguer. Les personnels sont soumis à une stricte neutralité, les élèves ont la liberté de conscience mais pas de signe ostensible. Les devoirs et droits des agents publics (Code général de la fonction publique), les textes, les situations fréquentes et les réponses sont dans la fiche 7 de Prep'CPE. Quelle est ta question sur la laïcité qui revient le plus souvent à l'oral ? Pose-la en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #laicite #valeursdelarepublique",
   "title": "Jeudi 12 novembre Fiche",
   "styles": [
    "s9",
    "s12",
    "s13",
    "s9",
+   "s12",
+   "s13",
    "s12"
   ]
  },
