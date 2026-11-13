@@ -572,6 +572,19 @@
     ]
    },
    {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Et le CPE dans tout ça ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Veiller à l'égalité de traitement : punitions, orientation, responsabilités (CC4).",
+     "Inscrire l'interdiction des discriminations dans le règlement intérieur et la faire respecter (C2).",
+     "Protéger la victime, signaler les faits pénaux (CC6).",
+     "Porter la prévention avec le CESCE et les élus (C3, C6)."
+    ]
+   },
+   {
     "kind": "cta",
     "title": "Prep'CPE",
     "lines": [
@@ -582,7 +595,7 @@
     "note": "Lien en bio"
    }
   ],
-  "caption": "Discrimination : ce que dit la loi. C'est une différence de traitement fondée sur un critère interdit (plus de vingt, art. 225-1 du Code pénal), dans un domaine prévu par la loi. À ne pas confondre avec un simple désaccord sur une décision. Dans l'établissement, six points de vigilance : sanctions, orientation, stages, espaces, responsabilités, langage. Et face à un propos raciste ou homophobe entre élèves, une démarche en 6 temps : faire cesser, protéger, entendre, signaler, répondre, suivre. Tout est dans la fiche 8 de Prep'CPE, avec le cadre juridique, les acteurs à mobiliser et le quiz. Quel point de vigilance te semble le plus difficile à repérer au quotidien ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #egalite #discriminations",
+  "caption": "Discrimination : ce que dit la loi. C'est une différence de traitement fondée sur un critère interdit (plus de vingt, art. 225-1 du Code pénal), dans un domaine prévu par la loi. À ne pas confondre avec un simple désaccord sur une décision. Dans l'établissement, six points de vigilance : sanctions, orientation, stages, espaces, responsabilités, langage. Et face à un propos raciste ou homophobe entre élèves, une démarche en 6 temps : faire cesser, protéger, entendre, signaler, répondre, suivre. Le rôle du CPE : veiller à l'égalité de traitement, faire respecter le règlement, protéger la victime, porter la prévention avec le CESCE. Tout est dans la fiche 8 de Prep'CPE, avec le cadre juridique, les acteurs à mobiliser et le quiz. Quel point de vigilance te semble le plus difficile à repérer au quotidien ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #egalite #discriminations",
   "title": "Vendredi 13 novembre Notion",
   "styles": [
    "s12",
@@ -591,6 +604,7 @@
    "s13",
    "s12",
    "s9",
+   "s13",
    "s12"
   ]
  },

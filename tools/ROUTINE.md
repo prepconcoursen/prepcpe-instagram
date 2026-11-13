@@ -31,3 +31,5 @@ Musique du lot 2 refaite (2026-10-30, demande de Tanguy : varier davantage d'un 
 - Calendrier : 5-11 nov (lot 2 n°8-14), 12-18 nov (lot 4), 19-28 nov (lot 3), rappels `2026-11-18-rappel-j7` et `2026-11-24-rappel-j1` à 12 h.
 - Publication : `bash tools/publish_carrousel.sh <slug>` (branche `claude/project-thread-ezz2z0`, ne pas la supprimer : les images y sont servies par raw.githubusercontent.com). Journal : `PUBLISHED.log` de cette branche, ligne `AAAA-MM-JJ posts/auto/<slug> carrousel <permalien>`.
 - Ne jamais publier de Reel avec musique sans accord de Tanguy. Publication quotidienne à 17 h 49 (Europe/Paris), sans validation préalable ; Tanguy est prévenu par la notification de la réponse finale.
+
+Règle de contenu (demande de Tanguy, 2026-11-13) : chaque carrousel doit contenir une image « Le rôle du CPE » qui relie la notion à la fonction de CPE (compétences de la circulaire, ex. CC4, C2), et un contenu riche tiré de la fiche (définition, cadre juridique, démarche), pas un survol. Palettes sans bleu, variées d'un jour à l'autre mais harmonieuses (moutarde, sapin, crème, aubergine, corail, brique, prune).
