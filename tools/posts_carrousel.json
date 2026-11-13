@@ -493,39 +493,82 @@
    {
     "kind": "cover",
     "kicker": "UNE NOTION",
-    "title": "Discrimination ou désaccord ?",
-    "note": "Savoir les distinguer, c'est le premier réflexe"
+    "title": "Discrimination : ce que dit la loi",
+    "note": "Fiche 8 · à maîtriser pour l'écrit et l'oral"
+   },
+   {
+    "kind": "list",
+    "kicker": "LA DÉFINITION",
+    "title": "Trois éléments à réunir",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Une différence de traitement.",
+     "Fondée sur un critère interdit par la loi.",
+     "Dans un domaine prévu par la loi : par exemple l'orientation, les sanctions, les stages.",
+     "Base légale : Code pénal, art. 225-1 et 225-2."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LES CRITÈRES",
+    "title": "Plus de vingt critères interdits",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Origine, sexe, orientation sexuelle, identité de genre",
+     "Religion, handicap, état de santé",
+     "Apparence physique, lieu de résidence",
+     "Situation de famille, âge, etc."
+    ]
    },
    {
     "kind": "compare",
-    "kicker": "COMMENT LES DISTINGUER",
+    "kicker": "À DISTINGUER",
     "title": "Y a-t-il un critère interdit ?",
     "left": [
      "DISCRIMINATION",
      [
       "Un élève est moins bien traité qu'un autre",
-      "À cause d'un critère interdit par la loi : origine, sexe, religion, handicap…"
+      "À cause d'un critère interdit par la loi"
      ]
     ],
     "right": [
      "DÉSACCORD",
      [
       "Aucun critère interdit derrière la décision",
-      "Exemple : une punition jugée trop sévère"
+      "Exemple : une punition jugée trop sévère. On écoute, on explique."
      ]
     ]
    },
    {
     "kind": "list",
-    "kicker": "LE BON RÉFLEXE",
-    "title": "Quand un élève dit « c'est injuste »",
-    "small": true,
+    "kicker": "DANS L'ÉTABLISSEMENT",
+    "title": "Six points de vigilance",
     "numbered": true,
+    "small": true,
     "lines": [
-     "Écouter sans juger.",
-     "Vérifier les faits.",
-     "Expliquer la règle et la décision.",
-     "Informer le chef d'établissement."
+     "Sanctions : les mêmes faits, les mêmes réponses ?",
+     "Orientation : attention aux stéréotypes.",
+     "Stages : refus fondés sur l'origine ou l'adresse.",
+     "Espaces : cour, toilettes, vestiaires.",
+     "Responsabilités : délégués filles et garçons.",
+     "Langage : reprendre chaque insulte banalisée."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "PROPOS RACISTES OU HOMOPHOBES",
+    "title": "La démarche en 6 temps",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Faire cesser et protéger la victime.",
+     "Entendre l'auteur : faire nommer le propos.",
+     "Informer le chef d'établissement, signaler.",
+     "Réponse éducative, sanction si nécessaire.",
+     "Travail collectif : heure de vie de classe, EMC.",
+     "Suivre la victime : pas de représailles."
     ]
    },
    {
@@ -539,11 +582,14 @@
     "note": "Lien en bio"
    }
   ],
-  "caption": "Discrimination ou désaccord ? Une discrimination, c'est quand un élève est moins bien traité qu'un autre à cause d'un critère interdit par la loi (origine, sexe, religion, handicap…). Un désaccord, c'est une décision que l'élève juge injuste, sans critère interdit derrière : on écoute, on explique la règle. Savoir les distinguer est le premier réflexe. Tout est dans la fiche 8 de Prep'CPE. Quelle phrase dis-tu à un élève qui te répond « c'est pas juste » ? Écris-la en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #egalite #climatscolaire",
+  "caption": "Discrimination : ce que dit la loi. C'est une différence de traitement fondée sur un critère interdit (plus de vingt, art. 225-1 du Code pénal), dans un domaine prévu par la loi. À ne pas confondre avec un simple désaccord sur une décision. Dans l'établissement, six points de vigilance : sanctions, orientation, stages, espaces, responsabilités, langage. Et face à un propos raciste ou homophobe entre élèves, une démarche en 6 temps : faire cesser, protéger, entendre, signaler, répondre, suivre. Tout est dans la fiche 8 de Prep'CPE, avec le cadre juridique, les acteurs à mobiliser et le quiz. Quel point de vigilance te semble le plus difficile à repérer au quotidien ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #egalite #discriminations",
   "title": "Vendredi 13 novembre Notion",
   "styles": [
    "s12",
    "s13",
+   "s9",
+   "s13",
+   "s12",
    "s9",
    "s12"
   ]
