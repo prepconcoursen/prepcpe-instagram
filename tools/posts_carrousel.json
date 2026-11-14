@@ -616,8 +616,8 @@
   "slides": [
    {
     "kind": "cover",
-    "kicker": "REPÈRES · FICHE 8",
-    "title": "Discriminations : les 4 textes à connaître",
+    "kicker": "DISCRIMINATIONS · FICHE 8",
+    "title": "Les 4 textes à connaître",
     "note": "À maîtriser pour l'écrit et l'oral"
    },
    {
@@ -657,7 +657,7 @@
    },
    {
     "kind": "list",
-    "kicker": "TEXTE 4 · CIRCULAIRE DU 29 SEPTEMBRE 2021",
+    "kicker": "TEXTE 4 · CIRCULAIRE DE 2021",
     "title": "Identité de genre",
     "numbered": false,
     "small": true,
