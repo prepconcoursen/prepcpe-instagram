@@ -617,27 +617,81 @@
    {
     "kind": "cover",
     "kicker": "REPÈRES · FICHE 8",
-    "title": "Les 4 textes à connaître"
+    "title": "Discriminations : les 4 textes à connaître",
+    "note": "À maîtriser pour l'écrit et l'oral"
    },
    {
     "kind": "list",
-    "kicker": "DISCRIMINATIONS ET HAINE",
-    "title": "Le droit pénal",
+    "kicker": "TEXTE 1 · CODE PÉNAL",
+    "title": "Art. 225-1 et 225-2",
+    "numbered": false,
+    "small": true,
     "lines": [
-     "Code pénal, art. 225-1 et 225-2 : les discriminations.",
-     "Loi du 29 juillet 1881 : injures et provocations à la haine."
-    ],
-    "numbered": false
+     "Ils définissent la discrimination : une différence de traitement fondée sur un critère interdit par la loi, dans un domaine prévu par la loi.",
+     "Plus de vingt critères : origine, sexe, orientation sexuelle, identité de genre, religion, handicap, apparence physique, lieu de résidence…",
+     "L'article 225-2 en fixe les sanctions."
+    ]
    },
    {
     "kind": "list",
-    "kicker": "ÉGALITÉ ET GENRE",
-    "title": "Le droit de l'éducation",
+    "kicker": "TEXTE 2 · LOI DU 29 JUILLET 1881",
+    "title": "Injures et haine",
+    "numbered": false,
+    "small": true,
     "lines": [
-     "Code de l'éducation, art. L. 121-1 : mixité et égalité entre les femmes et les hommes.",
-     "Circulaire du 29 septembre 2021 : identité de genre en milieu scolaire."
-    ],
-    "numbered": false
+     "Elle réprime les injures, diffamations et provocations à la haine : racistes, antisémites, sexistes, homophobes.",
+     "Ce sont des délits, aggravés quand ils visent l'origine, la religion, le sexe ou l'orientation sexuelle.",
+     "Une insulte banalisée en cour de récréation peut donc relever du pénal."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "TEXTE 3 · CODE DE L'ÉDUCATION",
+    "title": "Art. L. 121-1",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Il fixe la mixité et l'égalité entre les femmes et les hommes comme une obligation légale de l'école.",
+     "Chaque établissement désigne un référent égalité filles-garçons : il coordonne les actions et le diagnostic."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "TEXTE 4 · CIRCULAIRE DU 29 SEPTEMBRE 2021",
+    "title": "Identité de genre",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Un élève transgenre peut utiliser le prénom qu'il a choisi.",
+     "Pour un élève mineur, il faut l'accord des deux représentants légaux.",
+     "L'établissement doit aussi prévenir la transphobie."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Et le CPE dans tout ça ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Traiter chaque propos discriminatoire comme un manquement aux valeurs de la République (CC1).",
+     "Veiller à l'égalité de traitement : punitions, orientation, responsabilités (CC4).",
+     "Protéger la victime, signaler les faits pénaux (CC6).",
+     "Inscrire l'interdiction dans le règlement intérieur et la faire respecter (C2)."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "PIÈGES À ÉVITER",
+    "title": "Au concours, ne pas…",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Banaliser une insulte comme « un mot de la cour ».",
+     "Proposer une médiation entre auteur et victime de propos haineux répétés.",
+     "Confondre discrimination (critère interdit) et injustice ressentie.",
+     "Oublier le signalement au procureur pour les faits pénaux."
+    ]
    },
    {
     "kind": "cta",
@@ -650,12 +704,16 @@
     "note": "Lien en bio"
    }
   ],
-  "caption": "Les 4 textes à connaître sur les discriminations : les articles 225-1 et 225-2 du Code pénal, la loi du 29 juillet 1881 sur les injures et provocations à la haine, l'article L. 121-1 du Code de l'éducation sur l'égalité, et la circulaire du 29 septembre 2021 sur l'identité de genre. Enregistre ce post pour tes révisions. Fiche 8 sur Prep'CPE. Lequel te manquait ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #discriminations #textes",
+  "caption": "Les 4 textes à connaître sur les discriminations. Code pénal, art. 225-1 et 225-2 : la définition et les critères interdits. Loi du 29 juillet 1881 : injures et provocations à la haine, des délits. Code de l'éducation, art. L. 121-1 : mixité et égalité entre les femmes et les hommes, avec un référent égalité dans chaque établissement. Circulaire du 29 septembre 2021 : identité de genre, prénom choisi avec l'accord des deux représentants légaux. Le rôle du CPE : veiller à l'égalité de traitement, faire respecter le règlement intérieur, protéger la victime et signaler les faits pénaux. Candidats et candidates, enregistre ce post pour tes révisions. Tout est dans la fiche 8 de Prep'CPE, avec le quiz. Lequel de ces textes te manquait ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #discriminations #textes",
   "title": "Samedi 14 novembre Repères",
   "styles": [
    "s8",
    "s7",
    "s13",
+   "s7",
+   "s13",
+   "s8",
+   "s7",
    "s8"
   ]
  },
