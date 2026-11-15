@@ -33,3 +33,5 @@ Musique du lot 2 refaite (2026-10-30, demande de Tanguy : varier davantage d'un 
 - Ne jamais publier de Reel avec musique sans accord de Tanguy. Publication quotidienne à 17 h 49 (Europe/Paris), sans validation préalable ; Tanguy est prévenu par la notification de la réponse finale.
 
 Règle de contenu (demande de Tanguy, 2026-11-13) : chaque carrousel doit contenir une image « Le rôle du CPE » qui relie la notion à la fonction de CPE (compétences de la circulaire, ex. CC4, C2), et un contenu riche tiré de la fiche (définition, cadre juridique, démarche), pas un survol. Palettes sans bleu, variées d'un jour à l'autre mais harmonieuses (moutarde, sapin, crème, aubergine, corail, brique, prune).
+
+Règle de couleur (demande de Tanguy, 2026-11-15) : la première image (couverture) de chaque carrousel doit avoir une couleur différente de celle de la veille. Palette élargie avec s15 (rose poudré, couverture du 15 nov) et s16 (vert sauge, couverture du 16 nov).
