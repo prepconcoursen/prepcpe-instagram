@@ -725,33 +725,95 @@
   "slides": [
    {
     "kind": "cover",
-    "kicker": "FICHE 8",
-    "title": "Repérer les discriminations en EPLE"
+    "kicker": "FICHE 8 · DISCRIMINATIONS",
+    "title": "Repérer les discriminations chez soi",
+    "note": "L'établissement peut lui-même discriminer"
    },
    {
     "kind": "list",
-    "kicker": "6 DOMAINES DE VIGILANCE",
-    "title": "Les points à surveiller",
+    "kicker": "DOMAINES 1 ET 2",
+    "title": "Sanctions et orientation",
     "lines": [
-     "Punitions et sanctions : les mêmes faits, les mêmes réponses ?",
-     "Orientation : autocensure et stéréotypes",
-     "Stages : refus fondés sur l'origine ou le lieu de résidence",
-     "Espaces : cour, toilettes, vestiaires",
-     "Responsabilités : parité des délégués",
-     "Langage : insultes banalisées"
+     "Punitions et sanctions : les mêmes faits reçoivent-ils les mêmes réponses ? Analyser les données par sexe et par classe.",
+     "Orientation : autocensure des filles en sciences, des élèves de milieu populaire vers la voie générale ; poids des stéréotypes dans les conseils de classe."
     ],
+    "numbered": false,
     "small": true
+   },
+   {
+    "kind": "list",
+    "kicker": "DOMAINES 3 ET 4",
+    "title": "Stages et espaces",
+    "lines": [
+     "Stages : refus d'entreprises fondés sur l'origine ou le lieu de résidence. On signale et on s'appuie sur le pôle de stages.",
+     "Espaces : cour occupée par certains groupes (football), toilettes, vestiaires. On aménage et on fixe des règles d'usage."
+    ],
+    "numbered": false,
+    "small": true
+   },
+   {
+    "kind": "list",
+    "kicker": "DOMAINES 5 ET 6",
+    "title": "Responsabilités et langage",
+    "lines": [
+     "Responsabilités : parité des délégués, des élus au CVL, des éco-délégués.",
+     "Langage : insultes banalisées (« sale… », « PD »). Elles sont à reprendre systématiquement : ce sont des délits."
+    ],
+    "numbered": false,
+    "small": true
+   },
+   {
+    "kind": "list",
+    "kicker": "LES ÉCARTS QUI PERSISTENT",
+    "title": "Filles en terminale",
+    "numbered": false,
+    "small": true,
+    "tags": [
+     "58%",
+     "36%",
+     "13%",
+     "85%"
+    ],
+    "lines": [
+     "en spécialité maths-SVT",
+     "en maths-physique-chimie",
+     "en maths-sciences de l'ingénieur",
+     "en voie technologique santé-social (9 % en ingénierie)"
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "DÉMARCHE PAS À PAS",
+    "title": "Propos raciste ou homophobe",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Faire cesser et protéger la victime.",
+     "Entendre l'auteur : nommer le propos, en dire la gravité.",
+     "Informer le chef d'établissement, signaler (Faits établissement, procureur).",
+     "Réponse éducative, sanction si la gravité l'exige.",
+     "Travail collectif : heure de vie de classe, association.",
+     "Suivi de la victime, vigilance sur les représailles."
+    ]
    },
    {
     "kind": "list",
     "kicker": "LE RÔLE DU CPE",
     "title": "Analyser pour agir",
-    "lines": [
-     "Analyser les sanctions par sexe et par classe.",
-     "Reprendre systématiquement les insultes.",
-     "Porter la prévention avec le CESCE et les élus."
+    "numbered": false,
+    "small": true,
+    "tags": [
+     "CC1",
+     "CC4",
+     "CC6",
+     "C2"
     ],
-    "numbered": false
+    "lines": [
+     "Traiter chaque propos discriminatoire comme un manquement aux valeurs.",
+     "Veiller à l'égalité de traitement : punitions, orientation, responsabilités.",
+     "Protéger la victime, signaler les faits pénaux.",
+     "Faire respecter l'interdiction inscrite au règlement intérieur."
+    ]
    },
    {
     "kind": "cta",
@@ -764,13 +826,17 @@
     "note": "Lien en bio"
    }
   ],
-  "caption": "Où repérer les discriminations dans l'établissement ? Six points de vigilance pour le CPE : punitions et sanctions, orientation, stages, espaces, responsabilités, langage. À analyser par sexe et par classe, avec le CESCE et les élus. La fiche 8 de Prep'CPE détaille chaque domaine. Dans quel domaine est-ce le plus difficile d'agir selon toi ? Réponds en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #discriminations #egalite #climatscolaire",
+  "caption": "Où repérer les discriminations dans l'établissement ? Six domaines de vigilance pour le CPE : punitions et sanctions, orientation, stages, espaces, responsabilités, langage. L'établissement lui-même peut discriminer : on analyse donc les sanctions par sexe et par classe, avec le CESCE et les élus. Face à un propos raciste ou homophobe : protéger la victime, entendre l'auteur, signaler, répondre sur le plan éducatif, agir sur le collectif. Le rôle du CPE : égalité de traitement (CC4), valeurs de la République (CC1), protection et signalement (CC6), règlement intérieur (C2). Candidats et candidates, enregistre ce post pour tes révisions. Tout est dans la fiche 8 de Prep'CPE, avec le quiz. Dans quel domaine est-ce le plus difficile d'agir selon toi ? Réponds en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #discriminations #egalite #climatscolaire",
   "title": "Dimanche 15 novembre Fiche",
   "styles": [
    "s7",
-   "s8",
+   "s13",
    "s12",
-   "s7"
+   "s9",
+   "s11",
+   "s6",
+   "s7",
+   "s12"
   ]
  },
  {
