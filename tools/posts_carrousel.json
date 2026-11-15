@@ -847,8 +847,9 @@
   "slides": [
    {
     "kind": "cover",
-    "kicker": "SITUATION DE JURY",
-    "title": "Que faites-vous ?"
+    "kicker": "SITUATION DE JURY · FICHE 8",
+    "title": "Que faites-vous ?",
+    "note": "Un cas type à l'oral"
    },
    {
     "kind": "scene",
@@ -861,23 +862,68 @@
    },
    {
     "kind": "list",
-    "kicker": "VOS PREMIERS RÉFLEXES",
-    "title": "Protéger et signaler",
+    "kicker": "1 · PROTÉGER",
+    "title": "Protéger l'élève",
     "lines": [
-     "Protéger l'élève, informer le chef d'établissement.",
-     "Conserver les captures d'écran, sans les diffuser.",
-     "Signaler : procureur, Pharos, Faits établissement."
+     "Entretien et mise à l'abri.",
+     "Information immédiate du chef d'établissement.",
+     "Accompagnement par l'infirmier ou l'assistant de service social."
+    ],
+    "numbered": false,
+    "small": true
+   },
+   {
+    "kind": "list",
+    "kicker": "2 · PREUVES ET SIGNALEMENT",
+    "title": "Conserver et signaler",
+    "lines": [
+     "Conserver les captures d'écran fournies par la famille, sans les diffuser.",
+     "Signaler : procureur de la République (provocation à la haine, injures), plateforme Pharos, application Faits établissement.",
+     "Conseiller à la famille de porter plainte."
+    ],
+    "numbered": false,
+    "small": true
+   },
+   {
+    "kind": "list",
+    "kicker": "3 · AUTEURS ET CLASSE",
+    "title": "Répondre, puis agir sur le collectif",
+    "lines": [
+     "Entendre les auteurs séparément, informer leurs familles.",
+     "Engager la procédure disciplinaire si le lien avec l'établissement est établi.",
+     "Agir sur la classe : association ou équipe académique, travail avec le professeur d'histoire."
+    ],
+    "numbered": false,
+    "small": true
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Les compétences en jeu",
+    "numbered": false,
+    "small": true,
+    "tags": [
+     "CC1",
+     "CC6",
+     "C2"
+    ],
+    "lines": [
+     "Traiter l'acte comme un manquement aux valeurs de la République.",
+     "Protéger la victime, signaler les faits pénaux.",
+     "Faire respecter le règlement intérieur, par la réponse éducative et disciplinaire."
     ]
    },
    {
     "kind": "list",
-    "kicker": "ENSUITE",
-    "title": "Traiter la situation",
+    "kicker": "PIÈGES À ÉVITER",
+    "title": "Au jury, ne pas…",
     "lines": [
-     "Entendre les auteurs séparément, informer leurs familles.",
-     "Engager la procédure disciplinaire si nécessaire.",
-     "Agir sur la classe avec une association ou le professeur d'histoire."
+     "Banaliser : « des mots de la cour ».",
+     "Proposer une médiation entre auteurs et victime de propos haineux.",
+     "Oublier le signalement au procureur.",
+     "Réagir seul, sans informer le chef d'établissement."
     ],
+    "numbered": false,
     "small": true
    },
    {
@@ -891,14 +937,17 @@
     "note": "Lien en bio"
    }
   ],
-  "caption": "Situation de jury : des élèves de 3e ont créé un groupe de messagerie avec des insultes antisémites visant une élève de la classe. Sa famille vous alerte. Que faites-vous ? Protéger l'élève, conserver les preuves, signaler au procureur, entendre les auteurs, agir sur la classe. La démarche complète est dans la fiche 8 de Prep'CPE. Quel serait ton tout premier geste ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #oral #discriminations #antisemitisme",
+  "caption": "Situation de jury : des élèves de 3e ont créé un groupe de messagerie avec des insultes antisémites et des montages visant une élève de la classe. Sa famille vous alerte. Que faites-vous ? Protéger l'élève et informer le chef d'établissement. Conserver les preuves, signaler au procureur, sur Pharos et dans Faits établissement. Entendre les auteurs, engager la procédure disciplinaire si besoin, puis agir sur la classe. Le rôle du CPE : valeurs de la République (CC1), protection et signalement (CC6), règlement intérieur (C2). Candidats et candidates, enregistre ce post pour ton oral. La démarche complète est dans la fiche 8 de Prep'CPE. Quel serait ton tout premier geste ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #oral #discriminations #antisemitisme",
   "title": "Lundi 16 novembre Situation de jury",
   "styles": [
    "s16",
-   "s12",
    "s7",
    "s9",
-   "s13"
+   "s13",
+   "s11",
+   "s15",
+   "s12",
+   "s7"
   ]
  },
  {
