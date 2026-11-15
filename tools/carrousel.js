@@ -22,6 +22,8 @@ const STYLES = {
   s12: { bg: '#0f4c45', fg: '#f6efe0', acc: '#d9a93f', muted: 'rgba(246,239,224,.78)', card: 'rgba(255,255,255,.10)', cardfg: '#f6efe0', cardb: '#f6efe0', onacc: '#0f4c45', logoBg: '#f6efe0', logoFg: '#0f4c45', logoGold: '#d9a93f' },
   s13: { bg: '#f6efe0', fg: '#3b1d4a', acc: '#b8452e', muted: '#6b5a73', card: '#ffffff', cardfg: '#3b1d4a', cardb: '#3b1d4a', onacc: '#f6efe0', logoBg: '#b8452e', logoFg: '#f6efe0', logoGold: '#f2c14e' },
   s14: { bg: '#3b1d4a', fg: '#f6efe0', acc: '#8fe0c8', muted: 'rgba(246,239,224,.78)', card: 'rgba(255,255,255,.08)', cardfg: '#f6efe0', cardb: '#f6efe0', onacc: '#3b1d4a', logoBg: '#f6efe0', logoFg: '#3b1d4a', logoGold: '#8fe0c8' },
+  s15: { bg: '#e9b3b8', fg: '#3b1d4a', acc: '#7a1f3d', muted: '#6b3a4a', card: '#ffffff', cardfg: '#3b1d4a', cardb: '#3b1d4a', onacc: '#f6efe0', logoBg: '#7a1f3d', logoFg: '#f6efe0', logoGold: '#e9b3b8' },
+  s16: { bg: '#a9bfa0', fg: '#1f3b2e', acc: '#7a1f3d', muted: '#3d5a48', card: '#ffffff', cardfg: '#1f3b2e', cardb: '#1f3b2e', onacc: '#f6efe0', logoBg: '#1f3b2e', logoFg: '#f6efe0', logoGold: '#a9bfa0' },
   s4: { bg: '#d1ab55', fg: '#0a0a5c', acc: '#000091', muted: '#3a3320', card: '#ffffff', cardfg: '#0a0a5c', cardb: '#0a0a5c', onacc: '#fff', logoBg: '#000091', logoFg: '#fff', logoGold: '#d1ab55' },
 };
 
