@@ -1,3 +1,3 @@
-Quiz CPE : face à des insultes haineuses répétées d'un élève envers un autre, la médiation entre eux est… A, B ou C ? Réponds en commentaire. La démarche pas à pas est dans la fiche 8 de Prep'CPE. Lien en bio.
+Éduquer à la citoyenneté, c'est l'un des thèmes les plus fréquents au concours de CPE, à l'écrit comme à l'oral. Trois leviers à retenir : les savoirs (EMC, éducation aux médias), l'expérience (délégués, instances, associations) et le climat de l'établissement (des règles justes, la parole des élèves écoutée). Le rôle du CPE : organiser les élections et former les élus (M2), faire de la participation un apprentissage (C6), valoriser l'engagement (C7) et relier chaque action aux valeurs de la République (CC1). Candidats et candidates, enregistrez ce post pour vos révisions. Toute la démarche est dans la fiche 9 de Prep'CPE. Et chez vous, comment rendriez-vous les élections de délégués plus mobilisatrices ? Dites-le en commentaire. Lien en bio.
 
-#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #quiz #discriminations
+#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #citoyennete #emc #vieeleve
