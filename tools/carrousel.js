@@ -60,6 +60,7 @@ h2{font-size:84px;line-height:1.02;font-weight:900;letter-spacing:-2.5px;margin-
 .col li{margin-bottom:12px;list-style:none;padding-left:34px;position:relative}
 .col li:before{content:"";position:absolute;left:0;top:16px;width:16px;height:16px;border-radius:50%;background:${st.acc}}
 .scene .card{font-size:50px;line-height:1.3}
+.gta{align-self:flex-start;margin-top:46px;padding:26px 54px 18px;border-radius:26px;background:#2a1233;font-size:190px;line-height:1;font-weight:900;letter-spacing:-4px;font-style:italic;background-image:linear-gradient(180deg,#ff5fa2 0%,#ff8a5c 55%,#f2c14e 100%);-webkit-background-clip:text;color:transparent;border:6px solid #2a1233;box-shadow:12px 12px 0 rgba(0,0,0,.2);position:relative}.gta:before{content:'';position:absolute;inset:0;z-index:-1;border-radius:20px;background:#2a1233}
 .cta{align-items:flex-start}
 .cta .biglogo{width:260px;height:260px;margin-bottom:40px}
 .cta h1{font-size:190px}
@@ -74,7 +75,7 @@ function inner(sl) {
   const k = sl.kicker ? `<div class="kicker">${esc(sl.kicker)}</div>` : '';
   switch (sl.kind) {
     case 'cover':
-      const stk = (sl.kicker || 'Prep\'CPE').split('·')[0].trim(); return `<div class="stk" style="font-size:${stk.length > 10 ? 30 : 40}px">${esc(stk)}</div><div class="wrap">${k}<h1 style="font-size:${titleSize(sl.title)}px">${esc(sl.title).replace(/(\S+-\S+)/g, '<span style="white-space:nowrap">$1</span>')}</h1>${sl.note ? `<div class="note">${esc(sl.note)}</div>` : ''}</div>`;
+      const stk = (sl.kicker || 'Prep\'CPE').split('·')[0].trim(); return `<div class="stk" style="font-size:${stk.length > 10 ? 30 : 40}px">${esc(stk)}</div><div class="wrap">${k}<h1 style="font-size:${titleSize(sl.title)}px">${esc(sl.title).replace(/(\S+-\S+)/g, '<span style="white-space:nowrap">$1</span>')}</h1>${sl.badge ? `<div class="gta">${esc(sl.badge)}</div>` : ''}${sl.note ? `<div class="note">${esc(sl.note)}</div>` : ''}</div>`;
     case 'list': {
       const num = sl.numbered !== false;
       const items = sl.lines.map((t, i) => {
