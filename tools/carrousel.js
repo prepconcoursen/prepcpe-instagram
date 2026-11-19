@@ -72,10 +72,10 @@ h2{font-size:84px;line-height:1.02;font-weight:900;letter-spacing:-2.5px;margin-
 function titleSize(t) { const w = Math.max(...String(t).split(/\s+/).map(x => x.length)); return w <= 8 ? 150 : w <= 10 ? 128 : w <= 12 ? 108 : 92; }
 
 function inner(sl) {
-  const k = sl.kicker ? `<div class="kicker">${esc(sl.kicker)}</div>` : '';
+  const k = sl.kicker && !sl.nostk ? `<div class="kicker">${esc(sl.kicker)}</div>` : '';
   switch (sl.kind) {
     case 'cover':
-      const stk = (sl.kicker || 'Prep\'CPE').split('·')[0].trim(); return `<div class="stk" style="font-size:${stk.length > 10 ? 30 : 40}px">${esc(stk)}</div><div class="wrap">${k}<h1 style="font-size:${titleSize(sl.title)}px">${esc(sl.title).replace(/(\S+-\S+)/g, '<span style="white-space:nowrap">$1</span>')}</h1>${sl.badge ? `<div class="gta">${esc(sl.badge)}</div>` : ''}${sl.note ? `<div class="note">${esc(sl.note)}</div>` : ''}</div>`;
+      const stk = (sl.kicker || 'Prep\'CPE').split('·')[0].trim(); return `${sl.nostk ? '' : `<div class="stk" style="font-size:${stk.length > 10 ? 30 : 40}px">${esc(stk)}</div>`}<div class="wrap">${k}<h1 style="font-size:${titleSize(sl.title)}px">${esc(sl.title).replace(/(\S+-\S+)/g, '<span style="white-space:nowrap">$1</span>')}</h1>${sl.badge ? `<img src="data:image/png;base64,${fs.readFileSync(path.join(__dirname, 'logo-gta-vi.png')).toString('base64')}" style="align-self:flex-start;height:400px;margin-top:30px;filter:drop-shadow(8px 8px 0 rgba(0,0,0,.18))">` : ''}${sl.note ? `<div class="note">${esc(sl.note)}</div>` : ''}</div>`;
     case 'list': {
       const num = sl.numbered !== false;
       const items = sl.lines.map((t, i) => {
