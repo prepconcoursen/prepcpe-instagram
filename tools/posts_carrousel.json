@@ -1168,28 +1168,97 @@
   "slides": [
    {
     "kind": "cover",
-    "kicker": "QUIZ CPE · FICHE 5",
-    "title": "Teste-toi en 20 secondes",
-    "note": "Une question, une réponse"
+    "kicker": "FICHE 5 · PROJET",
+    "title": "Le projet d'établissement en 5 temps",
+    "note": "Cadre, démarche, rôle du CPE"
    },
    {
-    "kind": "quiz",
-    "kicker": "LA QUESTION",
-    "title": "Pour quelle durée le projet d'établissement est-il adopté ?",
-    "options": [
-     "Trois à cinq ans",
-     "Un an",
-     "Dix ans"
+    "kind": "list",
+    "kicker": "LE CADRE",
+    "title": "L'essentiel à savoir",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Il exprime l'autonomie de l'EPLE (art. L. 401-1 du Code de l'éducation).",
+     "Adopté par le CA, sur rapport du chef d'établissement.",
+     "Trois à cinq ans dans le Code. La circulaire du 1er juillet 2024 retient 5 ans.",
+     "Le plan de prévention des violences lui est annexé."
     ]
    },
    {
-    "kind": "answer",
-    "kicker": "LA RÉPONSE",
-    "letter": "A",
-    "title": "Trois à cinq ans",
+    "kind": "list",
+    "kicker": "LA DÉMARCHE",
+    "title": "Cinq temps",
+    "numbered": true,
+    "small": true,
     "lines": [
-     "Il est adopté par le conseil d'administration.",
-     "Il fixe les objectifs de l'établissement, et le CPE y a toute sa part."
+     "Diagnostic partagé : bilan, enquête de climat scolaire, données de vie scolaire.",
+     "Priorités : trois ou quatre axes, pas un catalogue.",
+     "Objectifs et fiches actions avec indicateurs.",
+     "Mise en œuvre : calendrier, pilotage, régulation.",
+     "Évaluation : bilan annuel au CA."
+    ]
+   },
+   {
+    "kind": "compare",
+    "kicker": "À DISTINGUER",
+    "title": "Projet ou contrat d'objectifs ?",
+    "left": [
+     "PROJET D'ÉTABLISSEMENT",
+     [
+      "Adopté par le CA",
+      "Exprime l'autonomie de l'EPLE",
+      "Trois à cinq ans"
+     ]
+    ],
+    "right": [
+     "CONTRAT D'OBJECTIFS",
+     [
+      "Conclu avec le recteur, parfois la collectivité",
+      "Obligation de moyens, pas de résultats",
+      "Approuvé par le CA"
+     ]
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE VOLET ÉDUCATIF",
+    "title": "Ce que le CPE peut y porter",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Climat scolaire : enquête locale, médiation par les pairs",
+     "Assiduité et décrochage : protocole d'appel, GPDS, tutorat",
+     "Citoyenneté : formation des délégué·es, CVC, CVL, éco-délégué·es",
+     "Santé et bien-être : parcours éducatif de santé, compétences psychosociales"
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Quatre compétences mobilisées",
+    "tags": [
+     "M1",
+     "C3",
+     "C8",
+     "C4"
+    ],
+    "small": true,
+    "lines": [
+     "Contribue au diagnostic et rédige le volet éducatif avec le chef d'établissement.",
+     "Impulse et coordonne le volet éducatif, souvent via le CESCE.",
+     "Fait le lien entre pédagogie et éducation dans les fiches actions.",
+     "Décline le projet en projet de service de la vie scolaire."
+    ]
+   },
+   {
+    "kind": "scene",
+    "kicker": "SITUATION DE JURY",
+    "title": "Un volet éducatif sans cohérence",
+    "lines": [
+     "Partir d'un diagnostic : vie scolaire, climat scolaire, avis du CVC.",
+     "Associer l'équipe et retenir deux ou trois priorités mesurables.",
+     "Écrire des fiches actions, puis le projet de service. Bilan au CA."
     ]
    },
    {
@@ -1203,12 +1272,16 @@
     "note": "Lien en bio"
    }
   ],
-  "caption": "Quiz CPE : pour quelle durée le projet d'établissement est-il adopté ? A, B ou C ? Réponds en commentaire. Tout sur le projet d'établissement dans la fiche 5 de Prep'CPE. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #quiz #projetdetablissement",
-  "title": " Quiz",
+  "caption": "Le projet d'établissement en 5 temps, pour l'écrit comme pour l'oral : diagnostic, priorités, objectifs et actions, mise en œuvre, évaluation. Le CPE (compétences M1, C3, C4, C8) porte le volet éducatif avec le chef d'établissement et l'équipe. Candidats et candidates : quelle serait votre première priorité éducative dans un collège où le volet éducatif n'est qu'une liste d'actions ? Répondez en commentaire. Tout est dans la fiche 5 de Prep'CPE, gratuite. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #projetdetablissement #eple",
+  "title": "Projet d'établissement",
   "styles": [
    "s8",
-   "s7",
    "s13",
+   "s7",
+   "s9",
+   "s12",
+   "s13",
+   "s7",
    "s8"
   ]
  },
