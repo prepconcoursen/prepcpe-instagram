@@ -1254,11 +1254,11 @@
    {
     "kind": "scene",
     "kicker": "SITUATION DE JURY",
-    "title": "Un volet éducatif sans cohérence",
+    "title": "Le volet éducatif n'est qu'une liste d'actions. Que faites-vous ?",
     "lines": [
-     "Partir d'un diagnostic : vie scolaire, climat scolaire, avis du CVC.",
-     "Associer l'équipe et retenir deux ou trois priorités mesurables.",
-     "Écrire des fiches actions, puis le projet de service. Bilan au CA."
+     "1. Je pars d'un diagnostic : vie scolaire, climat scolaire, avis du CVC.",
+     "2. Avec l'équipe, je retiens deux ou trois priorités mesurables.",
+     "3. J'écris des fiches actions, puis le projet de service. Bilan au CA."
     ]
    },
    {
