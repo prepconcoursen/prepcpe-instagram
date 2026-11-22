@@ -1716,5 +1716,120 @@
    "s7",
    "s9"
   ]
+ },
+ {
+  "slug": "2026-11-22-climat",
+  "date": "2026-11-22",
+  "fiche": 13,
+  "style": "s16",
+  "styles": [
+   "s16",
+   "s13",
+   "s7",
+   "s12",
+   "s15",
+   "s13",
+   "s7",
+   "s16"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "CLIMAT SCOLAIRE · FICHE 13",
+    "title": "Les 7 facteurs du climat scolaire",
+    "note": "Un classique des écrits et des oraux"
+   },
+   {
+    "kind": "list",
+    "kicker": "DÉFINITION",
+    "title": "Qu'est-ce que le climat scolaire ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "La qualité de vie et de communication perçue dans l'établissement : relations, sentiment de sécurité, justice, appartenance, conditions d'apprentissage.",
+     "Il se mesure par la perception des élèves, des personnels et des parents.",
+     "Effets démontrés : réussite, bien-être, moins de violences, d'absentéisme et de décrochage (Debarbieux, 2012)."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LES 7 FACTEURS · 1 À 4",
+    "title": "Sept facteurs pour agir",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Stratégie d'équipe : protocoles partagés, réunions régulières.",
+     "Justice scolaire : règlement expliqué, sanctions proportionnées.",
+     "Prévention des violences et du harcèlement : pHARe, repérage par les AED.",
+     "Pédagogie et coopération : heures de vie de classe, tutorat."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LES 7 FACTEURS · 5 À 7",
+    "title": "Et pour les trois derniers",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Coéducation : accueillir les parents, communiquer aussi sur le positif.",
+     "Pratiques partenariales : associations, collectivité, police, justice, santé.",
+     "Qualité de vie : cour, foyer, demi-pension, sanitaires, bruit et flux."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "MESURER",
+    "title": "Mesurer sans deviner",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Enquêtes nationales (DEPP) : 93 % des collégiens se disent bien dans leur collège (2022), 91 % des lycéens (2023).",
+     "Enquête locale : élèves, personnels, parents, à répéter pour suivre l'évolution.",
+     "Données de vie scolaire, application Faits établissement.",
+     "Parole des élèves : CVC, CVL, délégués."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "DÉMARCHE",
+    "title": "Un plan d'action en 6 étapes",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Diagnostic : enquête, données, marche exploratoire avec les élèves.",
+     "Analyse en équipe : forces, fragilités, lieux sensibles.",
+     "Deux ou trois priorités parmi les sept facteurs.",
+     "Fiches actions : responsables, calendrier, indicateurs.",
+     "Validation : CESCE, conseil pédagogique, CA.",
+     "Évaluation : nouvelle enquête deux ans plus tard."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Et le CPE dans tout ça ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Piloter le diagnostic et suivre les indicateurs (mission M6).",
+     "Garantir une justice scolaire lisible et cohérente (C2).",
+     "Inscrire le climat comme axe du projet, coordonner via le CESCE (C3).",
+     "Agir sur les espaces, les temps, la sécurité (C1).",
+     "Piège : le CPE n'est pas seul, c'est une stratégie d'équipe avec les familles (CC10, CC12)."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "La fiche 13 complète, avec quiz",
+     "et audio, gratuite"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Les 7 facteurs du climat scolaire retenus par le ministère : stratégie d'équipe, justice scolaire, prévention des violences et du harcèlement, pédagogie et coopération, coéducation, pratiques partenariales, qualité de vie. Se mesure par la perception des élèves, des personnels et des parents (enquêtes DEPP, enquête locale, données de vie scolaire). Plan d'action en 6 étapes : diagnostic, analyse, priorités, actions, validation, évaluation. Le rôle du CPE : piloter le diagnostic (M6), garantir une justice lisible (C2), inscrire le climat au projet d'établissement via le CESCE (C3), agir sur les espaces et les temps (C1), le tout en équipe et avec les familles. Candidats et candidates, enregistre ce post pour tes révisions. Tout est dans la fiche 13 de Prep'CPE, avec le quiz. Dans ton établissement, quel facteur te semble le plus facile à améliorer en premier ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #climatscolaire",
+  "title": "Les 7 facteurs du climat scolaire"
  }
 ]
