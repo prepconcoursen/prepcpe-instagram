@@ -68,7 +68,7 @@ h2{font-size:84px;line-height:1.02;font-weight:900;letter-spacing:-2.5px;margin-
 .cta .note{font-size:44px;font-weight:800;color:${st.fg}}`;
 }
 
-function titleSize(t) { const w = Math.max(...String(t).split(/\s+/).map(x => x.length)); return w <= 8 ? 150 : w <= 10 ? 128 : w <= 12 ? 108 : 92; }
+function titleSize(t) { const w = Math.max(...String(t).split(/\s+/).map(x => x.length)); return w <= 8 ? 150 : w <= 10 ? 128 : w <= 11 ? 98 : w <= 12 ? 108 : 92; }
 
 function inner(sl) {
   const k = sl.kicker ? `<div class="kicker">${esc(sl.kicker)}</div>` : '';
