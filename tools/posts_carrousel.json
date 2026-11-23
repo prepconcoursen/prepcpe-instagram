@@ -1833,91 +1833,92 @@
   "title": "Les 7 facteurs du climat scolaire"
  },
  {
-  "slug": "2026-11-23-harcelement",
+  "slug": "2026-11-23-inclusive",
   "date": "2026-11-23",
-  "fiche": 14,
-  "style": "s9",
+  "fiche": 22,
+  "style": "s11",
   "styles": [
-   "s9",
+   "s11",
    "s13",
    "s7",
    "s12",
    "s15",
    "s13",
    "s7",
-   "s9"
+   "s11"
   ],
   "slides": [
    {
     "kind": "cover",
-    "kicker": "HARCÈLEMENT · FICHE 14",
-    "title": "Les repères du harcèlement",
-    "note": "Définition, droit, démarche, rôle du CPE"
+    "kicker": "ÉCOLE INCLUSIVE · FICHE 22",
+    "title": "L'école inclusive",
+    "note": "Plans, dispositifs, acteurs et rôle du CPE"
    },
    {
     "kind": "list",
-    "kicker": "DÉFINIR",
-    "title": "Trois critères à citer",
+    "kicker": "LE PRINCIPE",
+    "title": "Intégration ou inclusion ?",
     "numbered": false,
     "small": true,
     "lines": [
-     "Des violences répétées, verbales, physiques ou psychologiques (Olweus).",
-     "Un rapport de domination : la victime ne peut pas se défendre à armes égales.",
-     "L'isolement de la victime. Le cyberharcèlement prolonge tout cela en ligne, sans pause ni frontière."
+     "Le service public « veille à la scolarisation inclusive de tous les enfants, sans aucune distinction » (art. L. 111-1, loi du 8 juillet 2013).",
+     "Loi du 11 février 2005 : droit à la scolarisation en milieu ordinaire, au plus près du domicile, et droit à compensation du handicap.",
+     "Intégration : l'élève s'adapte. Inclusion : c'est l'école qui s'adapte (Ebersold).",
+     "Environ 550 000 élèves en situation de handicap et 140 000 AESH à la rentrée 2025."
     ]
    },
    {
     "kind": "list",
-    "kicker": "DISTINGUER",
-    "title": "Conflit, violence ou harcèlement ?",
-    "numbered": false,
-    "small": true,
-    "lines": [
-     "Conflit entre pairs : ponctuel, forces équilibrées. Réponse : médiation, rappel des règles.",
-     "Violence ponctuelle : acte isolé, parfois grave. Réponse : punition ou sanction, réparation.",
-     "Harcèlement : répétition, déséquilibre, isolement. Réponse : protocole, protection de la victime, procédure disciplinaire.",
-     "Piège : jamais de médiation entre la victime et l'auteur."
-    ]
-   },
-   {
-    "kind": "list",
-    "kicker": "LE CADRE JURIDIQUE",
-    "title": "Ce que dit le droit",
+    "kicker": "QUEL PLAN POUR QUI ?",
+    "title": "Quatre plans à ne pas confondre",
     "numbered": true,
     "small": true,
     "lines": [
-     "Code de l'éducation, L. 111-6 : droit à une scolarité sans harcèlement (loi du 2 mars 2022).",
-     "Code pénal, 222-33-2-3 : délit de harcèlement scolaire, jusqu'à 3 ans et 45 000 euros, 10 ans et 150 000 euros en cas de suicide ou de tentative.",
-     "Décret du 16 août 2023 : procédure disciplinaire obligatoire, même si la victime est dans un autre établissement.",
-     "Article 40 du Code de procédure pénale : signalement au procureur."
+     "PPRE : difficulté scolaire, plan d'action court décidé par l'équipe pédagogique.",
+     "PAP : troubles des apprentissages (« dys », TDAH), sans handicap reconnu ; aménagements pédagogiques.",
+     "PAI : trouble de santé (allergie, diabète, asthme) ; protocole d'urgence, trousse même en sortie.",
+     "PPS : handicap reconnu par la MDPH (CDAPH) ; aide humaine, matériel, suivi par l'ESS."
     ]
    },
    {
     "kind": "list",
-    "kicker": "LE GROUPE",
-    "title": "Un phénomène de groupe",
+    "kicker": "LES DISPOSITIFS",
+    "title": "Ces dispositifs collectifs ou ponctuels",
     "numbered": false,
     "small": true,
     "lines": [
-     "Auteurs, victime et témoins : tout le groupe est concerné.",
-     "Agir sur les témoins est le levier le plus efficace (Galand, Catheline).",
-     "Le programme pHARe : sensibiliser, communauté protectrice, agir, associer les parents, mobiliser les instances.",
-     "Équipe ressource d'au moins cinq personnes, élèves ambassadeurs, méthode de la préoccupation partagée."
+     "ULIS : élèves handicapés orientés par la CDAPH, avec un coordonnateur, inclusion en classe ordinaire.",
+     "SEGPA : grande difficulté scolaire persistante, enseignement adapté de la 6e à la 3e.",
+     "APADHE : cours à domicile ou à l'hôpital après plus de deux semaines d'absence pour raison médicale.",
+     "UPE2A : apprentissage intensif du français pour les élèves allophones, comme un sas vers la classe ordinaire."
     ]
    },
    {
     "kind": "list",
-    "kicker": "DÉMARCHE",
-    "title": "Traiter une situation en 6 temps",
+    "kicker": "QUI DÉCIDE ?",
+    "title": "Qui décide de quoi ?",
     "numbered": true,
     "small": true,
     "lines": [
-     "Accueillir la parole sans délai : croire, ne pas juger, pas de secret absolu.",
-     "Protéger tout de suite et informer le chef d'établissement, en traçant chaque étape.",
-     "Évaluer avec l'équipe ressource, puis recevoir séparément les familles.",
-     "Faire cesser : entretiens avec les auteurs, travail avec témoins et classe.",
-     "Sanctionner (procédure obligatoire) et signaler si les faits sont graves.",
-     "Suivre la victime à une semaine, puis un mois, et tirer le bilan au CESCE."
+     "La CDAPH, via la MDPH, reconnaît le handicap, décide du PPS et de l'aide humaine : ni le chef d'établissement ni le CPE.",
+     "Le pôle d'appui à la scolarité (PAS) apporte une réponse de premier niveau, sans attendre la notification MDPH.",
+     "Le PIAL organise l'accompagnement par les AESH ; l'AESH travaille sous l'autorité du chef d'établissement pour son service.",
+     "L'ESS suit le PPS au moins une fois par an, animée par l'enseignant référent."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LA VIE SCOLAIRE ADAPTE",
+    "title": "Ce que la vie scolaire peut adapter",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Accueil : visite avant la rentrée, référent identifié, AED informés.",
+     "Temps et espaces : sortie avant la sonnerie, lieu calme, ascenseur.",
+     "Demi-pension et internat : régime alimentaire, accompagnement au self.",
+     "Règles : tenir compte du trouble sans renoncer à la règle.",
+     "Sécurité : élèves intégrés au PPMS et aux exercices d'évacuation.",
+     "Climat : prévenir les moqueries, sensibiliser la classe."
     ]
    },
    {
@@ -1927,25 +1928,25 @@
     "numbered": false,
     "small": true,
     "lines": [
-     "Coordonner le traitement et le suivi des situations avec l'équipe vie scolaire et l'équipe pHARe (M6, M3).",
-     "Recevoir les familles de la victime et des auteurs (M4).",
-     "Conseiller le chef d'établissement sur la réponse disciplinaire et le signalement (C2).",
-     "Former les AED à la vigilance dans les espaces à risque (C4) et faire vivre les ambassadeurs et le CVC (M2).",
-     "Piège : agir seul, ou sanctionner sans protéger ni suivre la victime."
+     "Prendre en compte la diversité des élèves et adapter accueil, temps hors classe et règles (CC4).",
+     "Suivre les élèves, participer aux équipes éducatives et aux ESS (M3, C5).",
+     "Aménager espaces, demi-pension, internat et PPMS (C1) ; former les AED (C4).",
+     "Coopérer avec PAS, PIAL, enseignant référent et AESH (CC10).",
+     "Piège : le CPE ne pose aucun diagnostic, il repère, alerte et adapte. Il ne révèle jamais d'informations médicales à la classe ni aux autres parents."
     ]
    },
    {
     "kind": "cta",
     "title": "Prep'CPE",
     "lines": [
-     "La fiche 14 complète, avec quiz,",
+     "La fiche 22 complète, avec quiz,",
      "situation de jury et audio, gratuite"
     ],
     "url": "prep-cpe.netlify.app",
     "note": "Lien en bio"
    }
   ],
-  "caption": "Harcèlement et cyberharcèlement : trois critères (répétition, rapport de domination, isolement de la victime), un phénomène de groupe où les témoins sont le levier le plus efficace, et un cadre précis : article L. 111-6 du Code de l'éducation, délit de l'article 222-33-2-3 du Code pénal, procédure disciplinaire obligatoire depuis le décret du 16 août 2023, signalement via l'article 40. Démarche en 6 temps : accueillir, protéger, évaluer, faire cesser, sanctionner et signaler, suivre. Le rôle du CPE : coordonner le traitement et le suivi (M6, M3), recevoir les familles (M4), conseiller le chef d'établissement (C2), former les AED (C4). Piège classique : la médiation entre la victime et l'auteur est à proscrire. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Tout est dans la fiche 14 de Prep'CPE, avec le quiz et une situation de jury. Dans ton établissement, qui voit le premier les signaux faibles : la vie scolaire, les professeurs, les élèves ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #harcelement #cyberharcelement #phare",
-  "title": "Harcèlement, les repères (fiche 14)"
+  "caption": "École inclusive : un sujet fréquent aux écrits. Le principe (art. L. 111-1, lois de 2005 et 2013), les quatre plans à ne pas confondre (PPRE, PAP, PAI, PPS), les dispositifs (ULIS, SEGPA, APADHE, UPE2A) et qui décide de quoi : la CDAPH pour le PPS et l'aide humaine, le PAS en premier niveau, l'ESS pour le suivi. Le rôle du CPE : adapter la vie scolaire (CC4, C1), suivre les élèves et participer aux ESS (M3, C5), former les AED (C4), coopérer avec les AESH et l'enseignant référent (CC10). Piège classique : le CPE ne pose aucun diagnostic et ne révèle jamais d'informations médicales. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Tout est dans la fiche 22 de Prep'CPE, avec le quiz et une situation de jury. Dans ton établissement, quel temps hors classe (cour, self, couloirs) est le plus difficile pour un élève à besoins particuliers ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #ecoleinclusive #inclusion #aesh",
+  "title": "L'école inclusive (fiche 22)"
  }
 ]
