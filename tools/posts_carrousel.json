@@ -1948,5 +1948,122 @@
   ],
   "caption": "École inclusive : un sujet fréquent aux écrits. Le principe (art. L. 111-1, lois de 2005 et 2013), les quatre plans à ne pas confondre (PPRE, PAP, PAI, PPS), les dispositifs (ULIS, SEGPA, APADHE, UPE2A) et qui décide de quoi : la CDAPH pour le PPS et l'aide humaine, le PAS en premier niveau, l'ESS pour le suivi. Le rôle du CPE : adapter la vie scolaire (CC4, C1), suivre les élèves et participer aux ESS (M3, C5), former les AED (C4), coopérer avec les AESH et l'enseignant référent (CC10). Piège classique : le CPE ne pose aucun diagnostic et ne révèle jamais d'informations médicales. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Tout est dans la fiche 22 de Prep'CPE, avec le quiz et une situation de jury. Dans ton établissement, quel temps hors classe (cour, self, couloirs) est le plus difficile pour un élève à besoins particuliers ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #ecoleinclusive #inclusion #aesh",
   "title": "L'école inclusive (fiche 22)"
+ },
+ {
+  "slug": "2026-11-25-absenteisme",
+  "date": "2026-11-25",
+  "fiche": 19,
+  "style": "s12",
+  "styles": [
+   "s12",
+   "s13",
+   "s7",
+   "s9",
+   "s15",
+   "s13",
+   "s10",
+   "s12"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "ASSIDUITÉ · FICHE 19",
+    "title": "Absentéisme",
+    "note": "Obligation, procédure et rôle du CPE"
+   },
+   {
+    "kind": "list",
+    "kicker": "LE PRINCIPE",
+    "title": "Une obligation pour tous",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "L'assiduité est une obligation pour tous les élèves (art. L. 511-1) : participer à tous les enseignements et respecter les horaires.",
+     "Jusqu'à 16 ans, c'est aussi une obligation des responsables légaux (art. L. 131-8).",
+     "Toute absence est signalée à la famille le jour même ; la famille doit en faire connaître le motif."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LES MOTIFS LÉGITIMES",
+    "title": "Ce que dit l'article L. 131-8",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Maladie de l'enfant.",
+     "Maladie transmissible ou contagieuse d'un membre de la famille.",
+     "Réunion solennelle de famille.",
+     "Difficulté accidentelle des transports.",
+     "Absence temporaire des responsables que l'enfant accompagne.",
+     "Les autres motifs sont appréciés par l'établissement."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LA PROCÉDURE",
+    "title": "Quatre demi-journées, puis quoi ?",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Dès quatre demi-journées non justifiées dans le mois, le chef d'établissement engage un dialogue avec la famille.",
+     "Il réunit l'équipe éducative, désigne un personnel référent (souvent le CPE) et met en place un accompagnement.",
+     "Il informe l'IA-DASEN. Si l'absentéisme persiste, l'IA-DASEN avertit et peut convoquer les responsables légaux.",
+     "En dernier recours, il peut saisir le procureur de la République."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "COMPRENDRE AVANT D'AGIR",
+    "title": "Cinq visages de l'absentéisme",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Perlé : absences ciblées (une matière, le lundi, les évaluations).",
+     "Mal-être : phobie scolaire, harcèlement, anxiété. On soigne, on ne sanctionne pas.",
+     "Social ou familial : fratrie, travail, précarité. Assistant de service social.",
+     "Décrochage : désintérêt, échec, orientation absente. GPDS.",
+     "De confort : absences tolérées par la famille. Rappel de la loi."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE PROTOCOLE",
+    "title": "Le protocole d'assiduité en pratique",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Appel à chaque heure, saisi tout de suite dans le logiciel.",
+     "Familles informées dans la matinée (SMS, appel).",
+     "Justificatifs analysés, relance si absence non justifiée.",
+     "Seuils suivis chaque semaine par le CPE : entretien dès les premières absences injustifiées.",
+     "Chaque année, un rapport sur l'absentéisme est présenté au conseil d'administration."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Et le CPE dans tout ça ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Organiser le contrôle de l'assiduité et suivre chaque élève absentéiste (M3, C5).",
+     "Fixer les protocoles d'appel, de relance et de saisie ; animer l'équipe de vie scolaire (C1, C4).",
+     "Dialoguer avec les familles dès les premières absences (M4, CC12) et appliquer la procédure de l'art. L. 131-8 (CC2).",
+     "Piège : réduire l'absentéisme à une question de discipline. Chercher d'abord la cause (santé, climat, famille)."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "La fiche 19 complète, avec quiz,",
+     "situation de jury et audio, gratuite"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Absentéisme et assiduité : un sujet qui revient aux écrits comme à l'oral. Le principe (art. L. 511-1 et L. 131-8), les motifs légitimes, la procédure à partir de quatre demi-journées non justifiées dans le mois (dialogue avec la famille, équipe éducative, référent, IA-DASEN, procureur en dernier recours), les cinq visages de l'absentéisme et le protocole d'assiduité. Le rôle du CPE : suivre les élèves (M3, C5), fixer les protocoles (C1, C4), dialoguer avec les familles (M4, CC12), appliquer le cadre réglementaire (CC2). Piège classique : traiter l'absentéisme comme une simple affaire de discipline, alors que le refus scolaire anxieux relève du soin. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Tout est dans la fiche 19 de Prep'CPE, avec le quiz et une situation de jury. Dans ton établissement, quel est le premier signe qui t'alerterait sur un élève qui décroche ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #absenteisme #assiduite",
+  "title": "Absentéisme"
  }
 ]
