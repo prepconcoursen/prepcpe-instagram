@@ -1,0 +1,3 @@
+Bilan de la semaine : 6 réflexes à retenir (sécurité, orientation, parents, santé, médiation, vie associative), un mini-quiz sur la conduite à tenir quand un élève se confie, puis un mini-défi du dimanche. Explique à voix haute, en 60 secondes, une des fiches de la semaine, comme devant un jury. Le fil rouge : le CPE organise, repère, oriente et informe, jamais seul. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. As-tu réussi ton minuteur ? Dis-le en commentaire. Lien en bio.
+
+#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #bilan #defi #quiz

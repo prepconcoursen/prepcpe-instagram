@@ -3236,5 +3236,2193 @@
   ],
   "caption": "Vie associative et droits des lycéens : FSE, MDL, AS. La loi du 1er juillet 1901 et l'âge requis, ce que chaque association apporte (l'AS est obligatoire et présidée par le chef d'établissement), ce qu'elle ne peut pas faire (gérer les recettes de l'EPLE), les droits d'expression, de réunion, d'association et de publication, et la démarche pour créer une maison des lycéens. Le rôle du CPE : accompagner les projets (C6), garantir les droits (M2), connaître le cadre (CC2), veiller aux locaux (C1). Piège classique : confondre le budget de l'association et celui de l'EPLE. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Tout est dans la fiche 11 de Prep'CPE, avec le quiz et une situation de jury. Dans ton établissement, quel projet d'élèves mériterait d'être valorisé dans le dossier Parcoursup ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #viedelycee #associations #engagement",
   "title": "vie-associative"
+ },
+ {
+  "slug": "2026-12-06-bilan-semaine",
+  "date": "2026-12-06",
+  "fiche": null,
+  "style": "s10",
+  "styles": [
+   "s10",
+   "s9",
+   "s10",
+   "s11",
+   "s12",
+   "s13",
+   "s15",
+   "s10"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "BILAN DE LA SEMAINE",
+    "title": "6 réflexes à retenir",
+    "note": "Du 30 novembre au 5 décembre",
+    "sticker": "Bilan",
+    "size": 100
+   },
+   {
+    "kind": "list",
+    "kicker": "À RETENIR · 1/2",
+    "title": "Cette semaine",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Sécurité : le chef d'établissement en est responsable, le CPE l'organise (surveillance, AED, zones à risque).",
+     "Orientation : le conseil de classe donne un avis, le chef d'établissement décide, la famille peut faire appel.",
+     "Parents : membres de la communauté éducative, informés aussi quand tout va bien."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "À RETENIR · 2/2",
+    "title": "Cette semaine",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Santé : le CPE repère, écoute, oriente. Il n'est pas thérapeute. En urgence : le 15, ou le 3114.",
+     "Médiation par les pairs : pour les conflits entre égaux, jamais pour le harcèlement.",
+     "Vie associative : le budget de l'association n'est pas celui de l'EPLE."
+    ]
+   },
+   {
+    "kind": "quiz",
+    "kicker": "LA QUESTION",
+    "title": "Un élève se confie et évoque un danger pour lui. Que fait le CPE ?",
+    "options": [
+     "Il promet de garder le secret",
+     "Il transmet immédiatement",
+     "Il interroge d'abord les camarades de classe"
+    ]
+   },
+   {
+    "kind": "answer",
+    "kicker": "LA RÉPONSE",
+    "letter": "B",
+    "title": "Transmettre sans délai",
+    "lines": [
+     "Écouter sans enquêter, noter les mots de l'élève.",
+     "Informer le chef d'établissement : information préoccupante à la CRIP ou signalement au procureur.",
+     "Jamais de promesse de secret."
+    ]
+   },
+   {
+    "kind": "scene",
+    "kicker": "LE MINI-DÉFI",
+    "title": "60 secondes",
+    "lines": [
+     "Choisis une des fiches de la semaine et explique-la à voix haute, comme devant un jury.",
+     "Chronomètre-toi, puis relis la fiche pour vérifier."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Le fil rouge de la semaine",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Organiser, repérer, orienter, informer : le CPE ne travaille jamais seul.",
+     "Chaque fiche relie une règle de droit à un geste professionnel.",
+     "Au jury : cite la règle, puis dis ce que tu ferais."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "Fiches, quiz et audios",
+     "gratuits, tous concours"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Bilan de la semaine : 6 réflexes à retenir (sécurité, orientation, parents, santé, médiation, vie associative), un mini-quiz sur la conduite à tenir quand un élève se confie, puis un mini-défi du dimanche. Explique à voix haute, en 60 secondes, une des fiches de la semaine, comme devant un jury. Le fil rouge : le CPE organise, repère, oriente et informe, jamais seul. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. As-tu réussi ton minuteur ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #bilan #defi #quiz",
+  "title": "bilan-semaine"
+ },
+ {
+  "slug": "2026-12-07-adolescent",
+  "date": "2026-12-07",
+  "fiche": 25,
+  "style": "s9",
+  "styles": [
+   "s9",
+   "s12",
+   "s13",
+   "s15",
+   "s16",
+   "s7",
+   "s10",
+   "s9"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "ADOLESCENCE · FICHE 25",
+    "title": "Connaître l'adolescent",
+    "note": "Comprendre avant de réagir",
+    "sticker": "Ados",
+    "size": 100
+   },
+   {
+    "kind": "list",
+    "kicker": "UNE PÉRIODE DE TRANSFORMATIONS",
+    "title": "Quatre dimensions",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Physique : la puberté.",
+     "Psychique : identité, autonomie, rapport à l'autorité.",
+     "Cognitive : pensée abstraite, hypothèses.",
+     "Sociale : poids du groupe de pairs. De 11-12 ans à plus de 18 ans."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LES BESOINS",
+    "title": "Ce dont il a besoin",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Être reconnu et appartenir à un groupe.",
+     "S'affirmer et tester les limites : la transgression fait partie du processus.",
+     "Être protégé : l'adulte pose des limites qui contiennent sans humilier."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "REPÈRES THÉORIQUES",
+    "title": "Quatre auteurs",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Erikson : identité contre confusion des rôles.",
+     "Winnicott : un environnement qui tient et survit aux attaques.",
+     "Dolto : le complexe du homard, la carapace perdue.",
+     "Marcelli : l'autorité repose sur la confiance, non sur la force."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "À MANIER AVEC PRUDENCE",
+    "title": "Le cerveau",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Le cortex préfrontal (contrôle, anticipation) mûrit jusqu'à environ 25 ans.",
+     "Le système émotionnel est très actif : sensibilité à la récompense et au regard des pairs.",
+     "Les neurosciences n'expliquent pas tout (Gentaz, 2022). Il y a des adolescences, pas « un » adolescent."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LA DÉMARCHE",
+    "title": "L'entretien éducatif",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Préparer, puis accueillir : cadre, confidentialité et ses limites.",
+     "Faire parler : questions ouvertes, reformulation.",
+     "Distinguer l'acte et la personne, chercher le sens.",
+     "Conclure par un engagement concret et une date de suivi."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Et le CPE dans tout ça ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Conduire des entretiens adaptés, accompagner le parcours (C5).",
+     "Poser un cadre ferme et bienveillant, protéger (CC6) ; connaître les élèves (CC3).",
+     "S'appuyer sur le besoin d'autonomie : délégués, médiateurs, MDL (C6).",
+     "Piège : psychologiser à l'excès. Relais : infirmier, PsyEN, maison des adolescents."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "La fiche 25 complète, avec quiz",
+     "et situation de jury, gratuite"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Connaître l'adolescent : un passage obligé des écrits comme des oraux. Quatre dimensions de l'adolescence (physique, psychique, cognitive, sociale), les besoins à reconnaître, des repères théoriques (Erikson, Winnicott, Dolto, Marcelli), les limites des neurosciences et la démarche d'un entretien éducatif. Le rôle du CPE : mener l'entretien (C5), poser un cadre ferme et bienveillant (CC6), connaître les élèves (CC3). Piège classique : psychologiser à l'excès, le CPE n'est pas thérapeute. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Tout est dans la fiche 25 de Prep'CPE, avec le quiz et une situation de jury. Quel auteur t'aide le plus à comprendre les adolescents ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #adolescence #entretieneducatif",
+  "title": "adolescent"
+ },
+ {
+  "slug": "2026-12-08-espaces-temps",
+  "date": "2026-12-08",
+  "fiche": 26,
+  "style": "s12",
+  "styles": [
+   "s12",
+   "s16",
+   "s7",
+   "s9",
+   "s10",
+   "s11",
+   "s13",
+   "s12"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "VIE SCOLAIRE · FICHE 26",
+    "title": "Espaces et temps",
+    "note": "Là où l'éducation se joue hors de la classe",
+    "sticker": "Hors classe",
+    "size": 100
+   },
+   {
+    "kind": "list",
+    "kicker": "LE PRINCIPE",
+    "title": "Tous les moments hors classe",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Entrées et sorties, interclasses, récréations, études, pause méridienne, internat, abords.",
+     "Ces temps ont une valeur éducative : ils ne se réduisent pas à la surveillance (IH2EF)."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LES TEMPS SENSIBLES",
+    "title": "Où agir ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Entrées et sorties : sécurité, ponctualité, régime de sortie.",
+     "Interclasses : circulation organisée, présence adulte aux croisements.",
+     "Récréations : zones différenciées, cour aménagée avec les élèves.",
+     "Pause méridienne : passage par niveaux, clubs, CDI ouvert."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LA DEMI-PENSION",
+    "title": "Qui fait quoi ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "La collectivité (département ou région) : organisation et tarifs.",
+     "L'EPLE : fonctionnement et cadre éducatif.",
+     "Un moment de socialisation et d'éducation à l'alimentation (loi EGalim), parfois de tensions : bruit, attente."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "L'INTERNAT",
+    "title": "Points de vigilance",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Projet éducatif annexé au projet d'établissement ; règlement adopté par le CA.",
+     "Encadrement de nuit par des AED, protocoles d'urgence.",
+     "Santé, sommeil, PAI. Vie collective : intimité, prévention du harcèlement, écrans le soir."
+    ]
+   },
+   {
+    "kind": "scene",
+    "kicker": "SITUATION DE JURY",
+    "title": "Au self, 25 minutes d'attente",
+    "lines": [
+     "Bruit, incidents, les 3e passent devant les 6e.",
+     "Diagnostic : flux, avis des agents, des AED, du CVC.",
+     "Passage par niveau, activités pendant l'attente, AED dans la file.",
+     "Aménagements avec le secrétaire général et la collectivité."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Et le CPE dans tout ça ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Organiser l'espace scolaire et le temps (M5) : externat, demi-pension, internat.",
+     "Améliorer les conditions de vie des élèves (C1) ; construire l'emploi du temps des AED (C4).",
+     "Porter le projet d'internat (C3).",
+     "Piège : oublier la collectivité pour les bâtiments et la restauration."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "La fiche 26 complète, avec quiz,",
+     "situation de jury et audio, gratuite"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Espaces et temps scolaires : tout ce qui se joue en dehors de la classe. Entrées, interclasses, récréations, pause méridienne, demi-pension (qui fait quoi entre la collectivité et l'EPLE), internat (projet, règlement, encadrement de nuit), et une situation de jury : l'attente au self. Le rôle du CPE : organiser l'espace et le temps (M5), améliorer les conditions de vie (C1), construire l'emploi du temps des AED (C4), porter le projet d'internat (C3). Piège classique : réduire ces temps à de la surveillance. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Tout est dans la fiche 26 de Prep'CPE, avec le quiz et une situation de jury. Dans ton établissement, quel moment hors classe aimerais-tu réaménager en premier ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #viescolaire #internat #demipension",
+  "title": "espaces-temps"
+ },
+ {
+  "slug": "2026-12-09-equipe-vie-scolaire",
+  "date": "2026-12-09",
+  "fiche": 27,
+  "style": "s11",
+  "styles": [
+   "s11",
+   "s10",
+   "s11",
+   "s12",
+   "s13",
+   "s15",
+   "s16",
+   "s11"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "MANAGEMENT · FICHE 27",
+    "title": "Animer l'équipe",
+    "note": "AED, service civique, projet de service",
+    "sticker": "Équipe",
+    "size": 100
+   },
+   {
+    "kind": "list",
+    "kicker": "QUI EST QUI",
+    "title": "L'équipe de vie scolaire",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Un ou plusieurs CPE, des assistants d'éducation, parfois des assistants pédagogiques et des volontaires du service civique.",
+     "Le CPE organise et anime. Le chef d'établissement recrute les AED et signe leurs contrats, après délibération du CA."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LES AED",
+    "title": "Leur statut",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Contrats de droit public de trois ans maximum, renouvelables jusqu'à six ans.",
+     "CDI possible après six ans (décret du 9 août 2022).",
+     "Missions : surveillance, assiduité, aide aux devoirs, projets, encadrement à l'internat."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE SERVICE CIVIQUE",
+    "title": "Le piège fréquent",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Volontaires de 16 à 25 ans, pour des missions d'intérêt général.",
+     "Jamais en substitution d'un emploi.",
+     "Pas de surveillance seul, pas de remplacement d'un AED."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LES LEVIERS",
+    "title": "Animer, concrètement",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Clarifier et organiser : protocoles écrits, emploi du temps selon les flux.",
+     "Former : accueil, tutorat, posture, harcèlement, laïcité, premiers secours.",
+     "Réunir et responsabiliser : réunion hebdomadaire courte, AED référents d'un niveau ou d'un projet.",
+     "Reconnaître et évaluer : entretiens individuels, bilan du projet de service."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LA DÉMARCHE",
+    "title": "Accueillir un nouvel AED",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Entretien d'accueil et livret : protocoles, règlement, sécurité.",
+     "Tutorat par un AED expérimenté.",
+     "Formation : logiciel, posture, neutralité, signalement.",
+     "Point à un mois, puis entretiens réguliers."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Et le CPE dans tout ça ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Animer l'équipe (M7), construire emplois du temps, protocoles et projet de service (C4).",
+     "Coopérer au sein d'une équipe (CC10) ; former et se former (CC14).",
+     "Piège : se présenter comme le supérieur hiérarchique statutaire. C'est le chef d'établissement."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "La fiche 27 complète, avec quiz,",
+     "situation de jury et audio, gratuite"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Animer l'équipe de vie scolaire : une question de management très fréquente à l'oral. Qui compose l'équipe, le statut des AED (contrats de trois ans, six ans maximum, CDI possible ensuite), le piège du service civique (jamais en substitution d'un emploi), les leviers d'animation et la démarche pour accueillir un nouvel AED. Le rôle du CPE : animer l'équipe (M7), construire emplois du temps, protocoles et projet de service (C4), coopérer (CC10), former (CC14). Piège classique : se dire supérieur hiérarchique, c'est le chef d'établissement. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Tout est dans la fiche 27 de Prep'CPE, avec le quiz et une situation de jury. Quel est le premier conseil que tu donnerais à un nouvel AED ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #aed #management #equipe",
+  "title": "equipe-vie-scolaire"
+ },
+ {
+  "slug": "2026-12-10-numerique-ecrans-ia",
+  "date": "2026-12-10",
+  "fiche": 28,
+  "style": "s16",
+  "styles": [
+   "s16",
+   "s13",
+   "s15",
+   "s16",
+   "s7",
+   "s9",
+   "s10",
+   "s16"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "NUMÉRIQUE · FICHE 28",
+    "title": "Écrans et IA",
+    "note": "Téléphone, réseaux, cyberharcèlement",
+    "sticker": "Numérique",
+    "size": 100
+   },
+   {
+    "kind": "list",
+    "kicker": "LE CADRE",
+    "title": "Téléphone et IA",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Téléphone interdit à l'école et au collège depuis la loi du 3 août 2018 (sauf usages pédagogiques et élèves en situation de handicap).",
+     "Au lycée : les modalités passent par le règlement intérieur (vérifier le texte à jour).",
+     "IA : cadre d'usage du 14 juin 2025, usage autonome des élèves à partir de la 4e, sous conditions. Un usage non autorisé en évaluation peut être une fraude."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "CYBERHARCÈLEMENT",
+    "title": "Une forme de harcèlement",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Délit de harcèlement scolaire (loi du 2 mars 2022, art. 222-33-2-3 du Code pénal).",
+     "Il prolonge souvent le harcèlement de l'établissement.",
+     "L'établissement agit dès qu'il y a un lien avec la scolarité."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LES RÉFLEXES",
+    "title": "Que faire ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Protéger la victime, conserver les preuves.",
+     "3018 : écoute et signalement accéléré aux plateformes. Pharos : contenus illicites.",
+     "Plainte possible ; sanction si lien avec la scolarité.",
+     "Images intimes ou chantage : signalement immédiat au procureur."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "ATTENTION",
+    "title": "Ce qu'on ne fait pas",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Fouiller un téléphone : seul un officier de police judiciaire le peut.",
+     "Faire circuler des images intimes, même pour prouver.",
+     "Mener l'enquête à la place de la police.",
+     "Réduire l'éducation au numérique à l'interdiction."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "DONNÉES ET MÉDIAS",
+    "title": "RGPD et EMI",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Le RGPD s'applique : ENT, logiciel de vie scolaire, photos, listes.",
+     "Droit à l'image : autorisation des représentants légaux.",
+     "Éducation aux médias avec le professeur documentaliste et le CLEMI.",
+     "Le CVL est consulté sur la charte du numérique."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Et le CPE dans tout ça ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Utiliser l'ENT et le logiciel de vie scolaire, éduquer aux usages (CC9).",
+     "Faire appliquer les règles et traiter le cyberharcèlement (C2) ; protéger les données, signaler (CC6).",
+     "Inscrire l'éducation au numérique dans le projet et le CESCE (C3)."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "La fiche 28 complète, avec quiz",
+     "et situation de jury, gratuite"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Numérique, écrans, réseaux sociaux, IA : un sujet d'actualité très probable aux écrits comme aux oraux. Le cadre du téléphone portable, le cadre d'usage de l'IA du 14 juin 2025, le cyberharcèlement (délit de harcèlement scolaire), les bons réflexes (3018, Pharos, preuves, plainte), ce qu'on ne fait jamais (fouiller un téléphone, faire circuler des images intimes) et les données personnelles. Le rôle du CPE : utiliser et expliquer l'ENT (CC9), faire appliquer les règles (C2), protéger les données et signaler (CC6), inscrire le numérique dans le projet (C3). Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Tout est dans la fiche 28 de Prep'CPE, avec le quiz et une situation de jury. Dans ton établissement, comment est appliquée la règle sur le téléphone portable ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #numerique #cyberharcelement #ia",
+  "title": "numerique-ecrans-ia"
+ },
+ {
+  "slug": "2026-12-11-partenariats",
+  "date": "2026-12-11",
+  "fiche": 29,
+  "style": "s7",
+  "styles": [
+   "s7",
+   "s9",
+   "s10",
+   "s11",
+   "s12",
+   "s13",
+   "s15",
+   "s7"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "PARTENAIRES · FICHE 29",
+    "title": "Partenariats",
+    "note": "Nommer, cadrer, coordonner",
+    "sticker": "Réseau",
+    "size": 100
+   },
+   {
+    "kind": "list",
+    "kicker": "LE PRINCIPE",
+    "title": "Un partenariat, c'est",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Un objectif commun, des rôles distincts, une formalisation par convention.",
+     "L'école garde la responsabilité éducative et pédagogique ; le partenaire apporte une expertise.",
+     "Convention autorisée par le CA, signée par le chef d'établissement."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LA CARTE · 1/2",
+    "title": "Collectivités, sécurité, justice",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Département (collèges), Région (lycées), commune : bâtiments, restauration, transports.",
+     "Police, gendarmerie, référent sécurité-école, équipe mobile de sécurité : prévention et infractions.",
+     "Procureur, PJJ, juge des enfants : signalements, éducation au droit."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LA CARTE · 2/2",
+    "title": "Social, santé, insertion",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "ASE et CRIP, CAF, CCAS : informations préoccupantes, aides, soutien parental.",
+     "Maison des adolescents, CMP, centres de santé sexuelle : prévention et soins.",
+     "CIO, ONISEP, mission locale, MLDS : orientation, raccrochage.",
+     "Ligue de l'enseignement, CEMÉA, Francas : formation des délégués."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "INTERVENANTS EXTÉRIEURS",
+    "title": "Les règles",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Association éducative agréée, ou sans agrément : autorisation du chef d'établissement après information des autorités académiques (art. D. 551-6).",
+     "Sous la responsabilité de l'établissement, en présence d'un personnel.",
+     "Contenu préparé, conforme à la neutralité et à la laïcité."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LA DÉMARCHE",
+    "title": "Construire un partenariat",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Partir d'un besoin identifié dans le diagnostic.",
+     "Identifier le partenaire compétent, co-construire objectifs, public, calendrier.",
+     "Formaliser par convention, préparer élèves et enseignants.",
+     "Évaluer avec le partenaire et ajuster."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Et le CPE dans tout ça ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Identifier, solliciter et coordonner les partenaires (CC13) ; inscrire les partenariats dans le projet et le CESCE (C3).",
+     "Respecter agrément, convention, CA (CC2) ; articuler avec le territoire (M1).",
+     "Piège : citer « des partenaires » sans les nommer ni dire leur rôle."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "La fiche 29 complète, avec quiz",
+     "et situation de jury, gratuite"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Partenariats : le jury attend des partenaires précis, avec leur rôle et le cadre de leur intervention. Le principe (objectif commun, rôles distincts, convention autorisée par le CA), la carte des partenaires (collectivités, sécurité, justice, protection de l'enfance, santé, orientation, éducation populaire), les règles pour les intervenants extérieurs et la démarche pour construire un partenariat. Le rôle du CPE : coordonner (CC13), inscrire dans le projet (C3), respecter le cadre (CC2). Piège classique : citer des partenaires sans les nommer. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Tout est dans la fiche 29 de Prep'CPE, avec le quiz et une situation de jury. Quel partenaire de ton territoire connais-tu le moins bien ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #partenariats #territoire",
+  "title": "partenariats"
+ },
+ {
+  "slug": "2026-12-12-eco-delegues",
+  "date": "2026-12-12",
+  "fiche": 30,
+  "style": "s13",
+  "styles": [
+   "s13",
+   "s11",
+   "s12",
+   "s13",
+   "s15",
+   "s16",
+   "s7",
+   "s13"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "ÉCOLOGIE · FICHE 30",
+    "title": "Éco-délégués",
+    "note": "Transition écologique et démarche E3D",
+    "sticker": "E3D",
+    "size": 100
+   },
+   {
+    "kind": "list",
+    "kicker": "LE CADRE",
+    "title": "Ce que disent les textes",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Loi Climat et résilience du 22 août 2021 : éducation à l'environnement et au développement durable tout au long de la scolarité (art. L. 312-19).",
+     "Circulaire du 27 août 2019 : au moins un éco-délégué par classe, au moins deux au CVC et au CVL, un référent EDD par établissement."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LA DÉMARCHE E3D",
+    "title": "Un établissement engagé",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Un projet qui associe enseignements, vie scolaire, gestion de l'établissement et partenaires.",
+     "Labellisation académique à trois niveaux : engagement, approfondissement, expertise.",
+     "Lien avec les 17 objectifs de développement durable de l'ONU."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "DES ACTIONS",
+    "title": "Ce que ça donne",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Cours renaturées, potager, aires éducatives.",
+     "Gaspillage alimentaire au self (loi EGalim).",
+     "Tri et réduction des déchets, énergie, mobilités douces."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "UN ÉQUILIBRE",
+    "title": "Éduquer, pas militer",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Passer des petits gestes à la compréhension des enjeux et à l'engagement.",
+     "Sans culpabiliser ni militer : neutralité du service public.",
+     "Piège : réduire l'EDD aux gestes individuels."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LA DÉMARCHE",
+    "title": "Faire vivre les éco-délégués",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Élire, puis former : enjeux, conduite de projet.",
+     "Diagnostiquer : déchets, énergie, self, biodiversité.",
+     "Choisir deux ou trois projets réalistes, avec budget et adulte référent.",
+     "Présenter au CESCE et au CA, évaluer, valoriser."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Et le CPE dans tout ça ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Organiser l'élection et la formation des éco-délégués (C6) ; porter la démarche E3D via le CESCE (C3).",
+     "Agir sur les espaces : cour, self, déchets (C1) ; mobiliser collectivité et associations (CC13).",
+     "Si les éco-délégués se découragent : expliquer un refus, chercher une alternative, redonner du pouvoir d'agir."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "La fiche 30 complète, avec quiz,",
+     "situation de jury et audio, gratuite"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Transition écologique et éco-délégués : un sujet émergent des écrits, et un classique des oraux. Le cadre (loi Climat et résilience, circulaire du 27 août 2019), la démarche E3D et ses trois niveaux de label, des actions concrètes, l'équilibre entre éduquer et militer, et la démarche pour faire vivre les éco-délégués. Le rôle du CPE : élection et formation des éco-délégués (C6), démarche E3D via le CESCE (C3), actions sur les espaces (C1), collectivité et associations (CC13). Piège classique : réduire l'EDD aux petits gestes. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Tout est dans la fiche 30 de Prep'CPE, avec le quiz et une situation de jury. Quel projet écologique réaliste proposerais-tu à des éco-délégués ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #ecodelegues #developpementdurable",
+  "title": "eco-delegues"
+ },
+ {
+  "slug": "2026-12-13-systeme-educatif",
+  "date": "2026-12-13",
+  "fiche": 3,
+  "style": "s15",
+  "styles": [
+   "s15",
+   "s16",
+   "s7",
+   "s9",
+   "s10",
+   "s11",
+   "s12",
+   "s15"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "SYSTÈME ÉDUCATIF · FICHE 3",
+    "title": "Qui fait quoi ?",
+    "note": "Organisation, acteurs et pilotage",
+    "sticker": "Repères",
+    "size": 100
+   },
+   {
+    "kind": "list",
+    "kicker": "LE PRINCIPE",
+    "title": "Centralisé, déconcentré",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "L'éducation est « la première priorité nationale » (art. L. 111-1).",
+     "L'État fixe les programmes, recrute et paie les personnels.",
+     "Les académies mettent en œuvre. Les collectivités construisent et entretiennent les bâtiments."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LES NIVEAUX",
+    "title": "Qui décide quoi ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Commune : écoles. Département : collèges. Région : lycées.",
+     "IA-DASEN : affectation des élèves, moyens des collèges.",
+     "Recteur : mise en œuvre de la politique nationale, projet académique.",
+     "EPLE : autonomie, projet d'établissement, règlement intérieur, budget."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LES INSPECTEURS",
+    "title": "Qui évalue qui ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "IA-IPR : professeurs du second degré.",
+     "IA-IPR « Établissements et vie scolaire » (EVS) : CPE et chefs d'établissement.",
+     "IEN : premier degré et voie professionnelle."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LES TEXTES",
+    "title": "Cinq lois à situer",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "1989 : l'élève au centre. 2005 : socle commun.",
+     "2013 : refondation, école inclusive.",
+     "2019 : instruction obligatoire dès 3 ans, formation obligatoire jusqu'à 18 ans.",
+     "2022 : lutte contre le harcèlement scolaire."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE PILOTAGE",
+    "title": "Des projets emboîtés",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Projet académique, puis projet d'établissement (adopté par le CA pour trois à cinq ans), contrat d'objectifs.",
+     "Chaque établissement est évalué tous les cinq ans : autoévaluation, puis évaluation externe.",
+     "Circulaire de rentrée 2026 : « instruire et protéger »."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Et le CPE dans tout ça ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Inscrire la vie scolaire dans les priorités nationales et académiques (M1).",
+     "Connaître les textes et les interlocuteurs (CC2) ; s'appuyer sur les indicateurs pour le volet éducatif (C3).",
+     "Participer à l'autoévaluation (CC11). Piège : citer des chiffres sans vérifier l'édition la plus récente des Repères et références statistiques."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "La fiche 3 complète, avec quiz,",
+     "situation de jury et audio, gratuite"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Le système éducatif : organisation, acteurs, pilotage. Qui décide quoi (État, académie, département, région, commune, EPLE), qui évalue les CPE (l'IA-IPR EVS), cinq lois à situer de 1989 à 2022, le pilotage par projets emboîtés et l'évaluation des établissements tous les cinq ans. Le rôle du CPE : inscrire la vie scolaire dans les priorités nationales et académiques (M1), connaître le cadre (CC2), bâtir le volet éducatif (C3), participer à l'autoévaluation (CC11). Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Tout est dans la fiche 3 de Prep'CPE, avec le quiz et une situation de jury. Sais-tu qui est l'inspecteur ou l'inspectrice EVS de ton académie ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #systemeeducatif #politiqueeducative",
+  "title": "systeme-educatif"
+ },
+ {
+  "slug": "2026-12-14-travail-en-equipe",
+  "date": "2026-12-14",
+  "fiche": 6,
+  "style": "s12",
+  "styles": [
+   "s12",
+   "s9",
+   "s10",
+   "s11",
+   "s12",
+   "s13",
+   "s15",
+   "s12"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "ÉQUIPE · FICHE 6",
+    "title": "Jamais seul",
+    "note": "Travailler avec toute l'équipe",
+    "sticker": "Ensemble",
+    "size": 100
+   },
+   {
+    "kind": "list",
+    "kicker": "LE POSITIONNEMENT",
+    "title": "Sous l'autorité du chef",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Le CPE est sous l'autorité du chef d'établissement et membre de l'équipe de direction élargie sur les questions éducatives. Il n'est pas adjoint.",
+     "Chacun dans son champ : la pédagogie aux professeurs, la santé à l'infirmier, le social à l'assistant de service social, l'orientation au PsyEN."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "AU QUOTIDIEN",
+    "title": "Avec qui, pour quoi ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Chef d'établissement : rencontre hebdomadaire, remontée des incidents.",
+     "Professeur principal : suivi, conseil de classe, entretiens conjoints.",
+     "PsyEN : orientation, mal-être, décrochage.",
+     "Infirmier et ASS : conduites à risque, absentéisme, informations préoccupantes."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "INFORMATIONS",
+    "title": "Que partager ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Secret professionnel et discrétion encadrent les échanges.",
+     "Secret partagé : seulement l'information strictement nécessaire, entre professionnels concernés, dans l'intérêt de l'élève.",
+     "Rien de confidentiel en conseil de classe ni en salle des professeurs."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LES CADRES",
+    "title": "Où travailler ensemble ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Équipe de direction, équipe pédagogique de classe.",
+     "GPDS (prévention du décrochage), cellule de veille.",
+     "Équipe de suivi de la scolarisation pour les PPS, équipe ressource pHARe."
+    ]
+   },
+   {
+    "kind": "scene",
+    "kicker": "SITUATION DE JURY",
+    "title": "Une collègue te reproche de « toujours prendre le parti des élèves »",
+    "lines": [
+     "Ne pas répondre à chaud ni en public.",
+     "Rappeler les rôles : l'exclusion de cours est une punition du professeur, entendre l'élève relève du suivi éducatif.",
+     "Soutenir l'autorité du professeur, proposer un protocole d'exclusion partagé."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Et le CPE dans tout ça ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Coopérer au sein d'une équipe (CC10), contribuer à l'action de la communauté éducative (CC11).",
+     "Participer aux conseils de classe et aux projets (C8).",
+     "Piège : se présenter comme le supérieur des professeurs ou le « chef de la discipline »."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "La fiche 6 complète, avec quiz,",
+     "situation de jury et audio, gratuite"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Travailler en équipe : le jury vérifie qu'on ne travaille jamais seul. Le positionnement du CPE (sous l'autorité du chef d'établissement, membre de l'équipe de direction élargie), les partenaires du quotidien, ce qu'on peut partager (secret professionnel, secret partagé), les cadres de travail collectif, et une situation de jury : une collègue reproche de toujours prendre le parti des élèves. Le rôle du CPE : coopérer (CC10), contribuer à la communauté éducative (CC11), participer aux conseils de classe (C8). Piège classique : se présenter comme le chef de la discipline. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Tout est dans la fiche 6 de Prep'CPE, avec le quiz et une situation de jury. Quelle collaboration t'a le plus appris sur le travail d'équipe ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #equipe #cooperation",
+  "title": "travail-en-equipe"
+ },
+ {
+  "slug": "2026-12-15-biblio-delahaye-veran",
+  "date": "2026-12-15",
+  "fiche": null,
+  "style": "s10",
+  "styles": [
+   "s10",
+   "s12",
+   "s13",
+   "s15",
+   "s16",
+   "s7",
+   "s9",
+   "s10"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "BIBLIOGRAPHIE 2026",
+    "title": "Le CPE",
+    "note": "Delahaye et Véran, 4e éd. 2026",
+    "sticker": "Lire",
+    "size": 130
+   },
+   {
+    "kind": "list",
+    "kicker": "L'OUVRAGE",
+    "title": "De la vie scolaire à la politique éducative",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Ouvrage collectif dirigé par Jean-Paul Delahaye (ancien directeur général de l'enseignement scolaire) et Véran (Berger-Levrault, 4e éd. 2026).",
+     "Thèse : séparé de l'enseignement à l'origine, le CPE est devenu un cadre éducatif polyvalent, dans une éducation partagée."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "L'HISTOIRE",
+    "title": "Du surveillant général au CPE",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "1819 : le surveillant général, d'abord tourné vers la surveillance.",
+     "1970 : le statut de CPE, avec une mission d'éducation.",
+     "Depuis 1857, les tentatives d'élargir le service des professeurs aux tâches éducatives ont échoué.",
+     "La circulaire de 1982 a été remplacée en 2015."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LA TENDANCE",
+    "title": "Une éducation partagée",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "D'une division du travail entre enseignants et CPE vers une éducation partagée.",
+     "La qualité de la vie scolaire conditionne l'enseignement.",
+     "Le CPE : conseiller du chef d'établissement, animateur d'une politique éducative concertée."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LA POSTURE",
+    "title": "Autorité et dignité",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Tenir ensemble l'autorité des adultes et l'égale dignité de tous.",
+     "Expliquer ce qui est négociable et ce qui ne l'est pas.",
+     "Considérer les parents comme de vrais partenaires."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "À L'ÉCRIT ET À L'ORAL",
+    "title": "Comment l'utiliser ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Sujets : identité et missions du CPE, place dans l'équipe, autorité et discipline, absentéisme.",
+     "En ouverture : la séparation historique entre enseigner et éduquer, puis l'éducation partagée.",
+     "Nuance : ne pas réduire le CPE à la discipline, et vérifier les textes cités, certains sont dépassés."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Pour le jury",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Question probable : quelle différence entre un surveillant général et un CPE ?",
+     "Phrase pour l'oral : « Héritier du surveillant général, le CPE est devenu un éducateur polyvalent engagé dans une éducation partagée. »",
+     "Pièges : citer des textes abrogés, opposer professeurs et CPE."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "Fiches, quiz et audios",
+     "gratuits, tous concours"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Une lecture de la bibliographie 2026 : Le CPE, de la vie scolaire à la politique éducative, de Jean-Paul Delahaye et Véran (4e édition, 2026). Du surveillant général de 1819 au statut de CPE de 1970, la tendance vers une éducation partagée avec les professeurs, la posture qui tient ensemble autorité des adultes et égale dignité de tous, et comment mobiliser l'ouvrage à l'écrit et à l'oral. Le rôle du CPE : cadre éducatif polyvalent, conseiller du chef d'établissement. Dates et textes à confirmer dans le livre avant de les citer en copie. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. As-tu déjà lu cet ouvrage en entier ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #bibliographie2026 #delahaye #lecture",
+  "title": "biblio-delahaye-veran"
+ },
+ {
+  "slug": "2026-12-16-biblio-debarbieux",
+  "date": "2026-12-16",
+  "fiche": null,
+  "style": "s9",
+  "styles": [
+   "s9",
+   "s16",
+   "s7",
+   "s9",
+   "s10",
+   "s11",
+   "s12",
+   "s9"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "BIBLIOGRAPHIE 2026",
+    "title": "L'impasse de la punition",
+    "note": "Éric Debarbieux (dir.), 2e éd. 2022",
+    "sticker": "Lire",
+    "size": 100
+   },
+   {
+    "kind": "list",
+    "kicker": "LE CONSTAT",
+    "title": "La punition, massive",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Dans l'enquête citée par l'ouvrage, deux tiers des collégiens disent avoir déjà été punis, un quart plus de quatre fois.",
+     "Elle nourrit le sentiment d'injustice et ne suffit pas à éduquer.",
+     "Toute alternative est vite soupçonnée de laxisme."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "CINQ PISTES",
+    "title": "Les alternatives",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Coopérative : conseil d'élèves, règlement coconstruit.",
+     "Positive : cadre ferme et bienveillant, conséquences logiques.",
+     "Compétences psychosociales : décider, communiquer, coopérer, gérer sa colère.",
+     "Restaurative : réparer les dommages et rétablir le lien."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE FIL COMMUN",
+    "title": "Du contrôle à la responsabilisation",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Passer du contrôle par la peur à la responsabilisation, à la réparation et au lien.",
+     "Sans renoncer au cadre : alternative ne veut pas dire absence de limites.",
+     "Les compétences psychosociales demandent de la durée : au moins dix heures par an, sur plusieurs années."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "DISCIPLINE POSITIVE",
+    "title": "Naturelle ou logique ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Conséquence naturelle : la suite directe de l'acte.",
+     "Conséquence logique : en rapport avec l'acte, annoncée, respectueuse.",
+     "Chercher des solutions avec l'élève plutôt que punir."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "ATTENTION",
+    "title": "Les limites",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Médiation ou restauration ne conviennent pas au harcèlement.",
+     "C'est un plaidoyer : l'effet dépend de la mise en œuvre et de l'adhésion des équipes.",
+     "Préciser la source des chiffres d'enquête avant de les citer."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Pour le jury",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Revoir avec l'équipe l'échelle des punitions et sanctions, une réponse graduée (C2, M6).",
+     "Mesures de responsabilisation et de réparation, commission éducative.",
+     "Question probable : « Vous supprimez les punitions ? » Réponse : non, un cadre ferme, une réponse graduée."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "Fiches, quiz et audios",
+     "gratuits, tous concours"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Une lecture de la bibliographie 2026 : L'impasse de la punition à l'école, sous la direction d'Éric Debarbieux (2e édition, 2022). Le constat (une punition massive et vécue comme injuste), cinq alternatives (discipline coopérative, discipline positive, compétences psychosociales, approche de Palo Alto, communication non violente et justice restaurative), le fil commun de la responsabilisation, et les limites à garder en tête. Le rôle du CPE : repenser punitions et sanctions, règlement intérieur et commission éducative, en réponse graduée. Chiffres à vérifier dans le livre avant de les citer. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Quelle alternative à la punition te paraît la plus réaliste dans un établissement ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #bibliographie2026 #debarbieux #discipline",
+  "title": "biblio-debarbieux"
+ },
+ {
+  "slug": "2026-12-17-biblio-bidar-meirieu",
+  "date": "2026-12-17",
+  "fiche": null,
+  "style": "s16",
+  "styles": [
+   "s16",
+   "s10",
+   "s11",
+   "s12",
+   "s13",
+   "s15",
+   "s7",
+   "s16"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "BIBLIOGRAPHIE 2026",
+    "title": "Grandir en humanité",
+    "note": "Bidar et Meirieu, Autrement, 2022",
+    "sticker": "Lire",
+    "size": 100
+   },
+   {
+    "kind": "list",
+    "kicker": "L'OUVRAGE",
+    "title": "Un dialogue par lettres",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Un philosophe, Abdennour Bidar, et un pédagogue, Philippe Meirieu.",
+     "Une question : comment aider chacun, élève comme adulte, à devenir pleinement humain ?",
+     "Constat : individualisme, repli identitaire, institutions qui ne font plus autorité d'elles-mêmes."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE CAP",
+    "title": "Grandir en humanité",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "L'école ne se réduit pas à instruire : elle aide à se développer tout entier (pensée, sensibilité, engagement).",
+     "Accepter l'altérité sous trois formes : la nature, autrui, soi-même.",
+     "Devenir sujet plutôt que se conformer."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LA MÉTHODE",
+    "title": "De l'imposé au proposé",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Passer de la contrainte à la libération des initiatives.",
+     "Apprendre par la confrontation : débat, recherche et projet collectifs (conflit sociocognitif).",
+     "Avec un adulte exigeant, qui tient le cadre."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE COLLECTIF",
+    "title": "Les équipes, moteur du changement",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Les équipes changent l'école si la hiérarchie leur reconnaît de l'autonomie et les accompagne.",
+     "La liberté pédagogique se construit à plusieurs.",
+     "L'État fixe les objectifs, accompagne, vérifie."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "REPÈRES",
+    "title": "À savoir citer",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Korczak : l'enfant est à la fois inachevé et complet.",
+     "Pestalozzi : tête, cœur et mains.",
+     "Claparède : la révolution copernicienne de l'école, l'enfant au centre.",
+     "Droits de l'enfant : être protégé, mais aussi s'exprimer et s'associer."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Pour le jury",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Former les délégués et leur confier de vrais projets (C6) ; installer médiation et tutorat.",
+     "Associer la vie scolaire au projet éducatif (CC10) ; organiser des débats réglés en heure de vie de classe.",
+     "Piège : c'est un essai, pas un guide pratique. Ne pas opposer autorité et liberté."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "Fiches, quiz et audios",
+     "gratuits, tous concours"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Une lecture de la bibliographie 2026 : Grandir en humanité, dialogue entre Abdennour Bidar et Philippe Meirieu (Autrement, 2022). Le cap (aider chacun à devenir pleinement humain), la méthode (de l'imposé au proposé, la confrontation comme moteur d'apprentissage), le rôle des équipes, et des repères à citer (Korczak, Pestalozzi, Claparède). Le rôle du CPE : former les délégués, confier de vrais projets, associer la vie scolaire au projet éducatif. Formules et attributions à vérifier dans le livre avant de les citer. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Quelle phrase de ce livre pourrais-tu glisser dans une copie ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #bibliographie2026 #bidar #meirieu",
+  "title": "biblio-bidar-meirieu"
+ },
+ {
+  "slug": "2026-12-18-biblio-duru-bellat-dubet",
+  "date": "2026-12-18",
+  "fiche": null,
+  "style": "s11",
+  "styles": [
+   "s11",
+   "s13",
+   "s15",
+   "s16",
+   "s7",
+   "s9",
+   "s10",
+   "s11"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "BIBLIOGRAPHIE 2026",
+    "title": "Sauver la démocratie ?",
+    "note": "Duru-Bellat et Dubet, Seuil, 2020",
+    "sticker": "Lire",
+    "size": 100
+   },
+   {
+    "kind": "list",
+    "kicker": "LA THÈSE",
+    "title": "Trois promesses tenues à moitié",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Plus de justice, plus de compétences et de croissance, plus de confiance dans la démocratie.",
+     "Bilan nuancé : favorable aux vainqueurs de la compétition scolaire, moins aux vaincus.",
+     "L'égalité des chances ne suffit pas."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "DÉMOCRATISER ?",
+    "title": "La distillation continue",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "L'accès s'est ouvert : de 2,4 % de bacheliers en 1900 à 80 % en 2020 (chiffres de l'ouvrage).",
+     "Mais les élèves sont triés au fil du parcours : filières, options.",
+     "L'origine sociale pèse toujours."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "L'ÉCOLE N'EST PAS NEUTRE",
+    "title": "Ce que fait l'établissement",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Attentes et biais d'évaluation des enseignants.",
+     "Composition des classes et des établissements.",
+     "Orientation et stratégies des familles.",
+     "Selon son organisation, l'école réduit ou aggrave les inégalités."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "UNE ÉPREUVE PERSONNELLE",
+    "title": "L'échec, vécu seul",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Dans l'école de masse, l'échec est vécu comme un échec individuel.",
+     "Perte d'estime de soi, désengagement, attitudes anti-scolaires.",
+     "La méritocratie fait du diplôme le reflet de la valeur des personnes."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "NUANCER",
+    "title": "Ne pas conclure trop vite",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Ne pas dire que la massification a échoué : les inégalités ont aussi reculé.",
+     "L'école ne peut pas, seule, « sauver » la démocratie.",
+     "Chiffres de la fin des années 2010 : préciser source et date."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Pour le jury",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Accompagner l'orientation pour éviter l'orientation par l'échec ; repérer le décrochage.",
+     "Faire vivre les instances d'élèves (C6) ; veiller aux biais dans les décisions de sanction (C2).",
+     "Associer les familles éloignées de l'école (CC12)."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "Fiches, quiz et audios",
+     "gratuits, tous concours"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Une lecture de la bibliographie 2026 : L'école peut-elle sauver la démocratie ?, de Marie Duru-Bellat et François Dubet (Seuil, 2020). Les trois promesses de la massification et leur bilan nuancé, la distillation continue, ce que l'établissement fait (ou défait) aux inégalités, l'échec vécu comme épreuve personnelle, et les nuances à garder à l'écrit. Le rôle du CPE : accompagner l'orientation, repérer le décrochage, faire vivre les instances d'élèves, veiller aux biais dans les sanctions, associer les familles éloignées. Chiffres à vérifier dans le livre avant de les citer. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Selon toi, où l'établissement peut-il le plus réduire les inégalités ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #bibliographie2026 #dubet #inegalites",
+  "title": "biblio-duru-bellat-dubet"
+ },
+ {
+  "slug": "2026-12-19-biblio-jellab-marsollier",
+  "date": "2026-12-19",
+  "fiche": null,
+  "style": "s13",
+  "styles": [
+   "s13",
+   "s7",
+   "s9",
+   "s10",
+   "s11",
+   "s12",
+   "s15",
+   "s13"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "BIBLIOGRAPHIE 2026",
+    "title": "Bienveillance",
+    "note": "Jellab et Marsollier (dir.), 2018",
+    "sticker": "Lire",
+    "size": 120
+   },
+   {
+    "kind": "list",
+    "kicker": "L'OUVRAGE",
+    "title": "Une école humaine et exigeante",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Ouvrage collectif sous la direction d'Aziz Jellab et Christophe Marsollier (Berger-Levrault, 2018).",
+     "Thèse : la bienveillance n'est ni du laxisme ni un effet de mode, c'est une posture éthique et professionnelle qui s'apprend."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE PARADOXE",
+    "title": "Bienveillance ou exigence ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Depuis 2012, le bien-être est reconnu comme facteur de climat et de réussite.",
+     "Mais la bienveillance passe pour du laxisme.",
+     "Elle est un « care » au service du pouvoir d'agir : elle protège les élèves vulnérables sans réduire l'exigence."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "TROIS CONDITIONS",
+    "title": "Une école bienveillante",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Prendre conscience du pouvoir de l'école sur le devenir des élèves.",
+     "Être attentif au rapport au savoir.",
+     "Soigner l'évaluation."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "JUSTICE",
+    "title": "Des règles et sanctions justes",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "30 % des collégiens disent ne pas être traités avec justice par leurs professeurs, contre 19 % dans l'OCDE (chiffres de l'ouvrage).",
+     "Règles et sanctions doivent être justes et expliquées.",
+     "Une contrainte n'est pas forcément injuste."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "ATTENTION",
+    "title": "Les limites",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Ne pas réduire la bienveillance à la gentillesse.",
+     "La critique d'une injonction managériale existe.",
+     "Les expériences citées (Motiv'action, Spark, classes bien-être) sont rapportées par leurs porteurs : pas des preuves générales."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Pour le jury",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Expliquer chaque sanction et la relier au règlement (C2) ; mettre des mots sur une situation vécue comme injuste.",
+     "Proposer un référent à un élève en risque de décrochage ; former les équipes (CC10, M6).",
+     "Question probable : que répondre à un enseignant qui y voit du laxisme ?"
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "Fiches, quiz et audios",
+     "gratuits, tous concours"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Une lecture de la bibliographie 2026 : Bienveillance et bien-être à l'école, sous la direction d'Aziz Jellab et Christophe Marsollier (Berger-Levrault, 2018). Une posture éthique et professionnelle qui s'apprend, trois conditions d'une école bienveillante, la justice des règles et des sanctions, et les limites à connaître (pas de gentillesse molle, expériences rapportées par leurs porteurs). Le rôle du CPE : expliquer chaque sanction, proposer un référent à un élève fragile, former les équipes. Chiffres à vérifier dans le livre avant de les citer. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Que répondrais-tu à un collègue qui voit de l'angélisme dans la bienveillance ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #bibliographie2026 #bienveillance #climatscolaire",
+  "title": "biblio-jellab-marsollier"
+ },
+ {
+  "slug": "2026-12-20-quiz-bilan",
+  "date": "2026-12-20",
+  "fiche": null,
+  "style": "s7",
+  "styles": [
+   "s7",
+   "s11",
+   "s12",
+   "s13",
+   "s15",
+   "s16",
+   "s9",
+   "s7"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "QUIZ DU DIMANCHE",
+    "title": "3 questions, 3 fiches",
+    "note": "Teste ta semaine",
+    "sticker": "Quiz",
+    "size": 100
+   },
+   {
+    "kind": "quiz",
+    "kicker": "LA QUESTION",
+    "title": "Qui recrute les assistants d'éducation et signe leurs contrats ?",
+    "options": [
+     "Le conseiller principal d'éducation",
+     "Le chef d'établissement",
+     "Le recteur d'académie"
+    ]
+   },
+   {
+    "kind": "answer",
+    "kicker": "LA RÉPONSE",
+    "letter": "B",
+    "title": "Le chef d'établissement",
+    "lines": [
+     "Après délibération du CA (fiche 27).",
+     "Le CPE, lui, organise et anime l'équipe de vie scolaire (M7)."
+    ]
+   },
+   {
+    "kind": "quiz",
+    "kicker": "LA QUESTION",
+    "title": "Combien d'éco-délégués, au moins, siègent au CVC ou au CVL ?",
+    "options": [
+     "1",
+     "2",
+     "5"
+    ]
+   },
+   {
+    "kind": "answer",
+    "kicker": "LA RÉPONSE",
+    "letter": "B",
+    "title": "Au moins deux",
+    "lines": [
+     "Circulaire du 27 août 2019 : un éco-délégué par classe, deux au CVC et au CVL (fiche 30).",
+     "Le CPE organise leur élection et leur formation (C6)."
+    ]
+   },
+   {
+    "kind": "quiz",
+    "kicker": "LA QUESTION",
+    "title": "Quelle collectivité a la charge des lycées ?",
+    "options": [
+     "Le département",
+     "La région",
+     "La commune"
+    ]
+   },
+   {
+    "kind": "answer",
+    "kicker": "LA RÉPONSE",
+    "letter": "B",
+    "title": "La région",
+    "lines": [
+     "Département : collèges. Commune : écoles (fiche 3).",
+     "Le CPE s'adresse à la collectivité pour les bâtiments et la restauration."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "Fiches, quiz et audios",
+     "gratuits, tous concours"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Quiz du dimanche : trois questions pour tester ta semaine (qui recrute les assistants d'éducation, combien d'éco-délégués au CVC et au CVL, quelle collectivité a la charge des lycées). Chaque réponse est reliée à une mission du CPE : animer l'équipe (M7), organiser la participation (C6), dialoguer avec la collectivité. Combien de bonnes réponses ? Dis-le en commentaire. Les fiches 27, 30 et 3 sont sur Prep'CPE. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #quiz #bilan",
+  "title": "quiz-bilan"
+ },
+ {
+  "slug": "2026-12-21-biblio-petiot-visioli",
+  "date": "2026-12-21",
+  "fiche": null,
+  "style": "s15",
+  "styles": [
+   "s15",
+   "s16",
+   "s7",
+   "s9",
+   "s10",
+   "s11",
+   "s12",
+   "s15"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "BIBLIOGRAPHIE 2026",
+    "title": "Les émotions",
+    "note": "Petiot et Visioli, De Boeck, 2022",
+    "sticker": "Lire",
+    "size": 120
+   },
+   {
+    "kind": "list",
+    "kicker": "L'OUVRAGE",
+    "title": "Une école des émotions",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Oriane Petiot et Jérôme Visioli (De Boeck, 2022).",
+     "L'élève n'est pas seulement un apprenant : le rapport au savoir a une dimension affective.",
+     "Longtemps vues comme perturbatrices, les émotions sont une ressource pour l'engagement et une finalité de l'école."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "COMPRENDRE",
+    "title": "Qu'est-ce qu'une émotion ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Une réaction soudaine et spontanée à un événement précis, à distinguer de l'humeur, du stress ou du bien-être.",
+     "Cinq composantes : réactions physiologiques, comportements expressifs, évaluations cognitives, sentiments subjectifs, tendances à l'action."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "L'ENJEU",
+    "title": "Plus de la moitié du temps éveillé",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Enfants et adolescents passent plus de 50 % de leur temps éveillé à l'école.",
+     "Les émotions nourrissent attention et mémorisation.",
+     "Il faut éviter les « chagrins d'école » (Pennac)."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "INTELLIGENCE ÉMOTIONNELLE",
+    "title": "Quatre dimensions",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Conscience de soi.",
+     "Maîtrise de soi.",
+     "Conscience sociale : empathie, gestion des conflits.",
+     "Aptitudes sociales de communication."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "ÉVALUER, EXIGER",
+    "title": "À visage humain",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "L'évaluation est vécue comme un jugement sur soi.",
+     "Évaluation formative ou par capitalisation : la note ne peut plus régresser.",
+     "La bienveillance ne s'oppose pas à l'autorité.",
+     "Les adultes aussi ont des émotions : travail émotionnel, risque d'épuisement."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Pour le jury",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Écouter et aider à nommer les émotions lors d'un conflit ; développer les compétences psychosociales (conseils d'élèves, médiation).",
+     "Soutenir les AED et les collègues après une agression : temps de parole (CC10, M6).",
+     "Limite : l'ouvrage vise surtout les enseignants, la vie scolaire y est peu présente."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "Fiches, quiz et audios",
+     "gratuits, tous concours"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Une lecture de la bibliographie 2026 : Les émotions en contexte scolaire, d'Oriane Petiot et Jérôme Visioli (De Boeck, 2022). Ce qu'est une émotion (cinq composantes), pourquoi l'enjeu est majeur (plus de 50 % du temps éveillé à l'école), les quatre dimensions de l'intelligence émotionnelle, l'évaluation à visage humain et les émotions des adultes. Le rôle du CPE : aider à nommer les émotions, développer les compétences psychosociales, soutenir les équipes après un événement difficile. Chiffres à vérifier dans le livre avant de les citer. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Comment accueillerais-tu la colère d'un élève après une sanction ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #bibliographie2026 #emotions #competencespsychosociales",
+  "title": "biblio-petiot-visioli"
+ },
+ {
+  "slug": "2026-12-22-biblio-galand",
+  "date": "2026-12-22",
+  "fiche": null,
+  "style": "s12",
+  "styles": [
+   "s12",
+   "s9",
+   "s10",
+   "s11",
+   "s12",
+   "s13",
+   "s15",
+   "s12"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "BIBLIOGRAPHIE 2026",
+    "title": "Harcèlement : mythes",
+    "note": "Benoît Galand, Retz, 2021",
+    "sticker": "Lire",
+    "size": 100
+   },
+   {
+    "kind": "list",
+    "kicker": "L'OUVRAGE",
+    "title": "Dix idées reçues, confrontées à la recherche",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Définition : un déséquilibre de pouvoir, très peu de réciprocité, dans une dynamique de groupe où les témoins comptent.",
+     "Ampleur : selon les études, 10 à 30 % des élèves sont ou ont été victimes de harcèlement ou de cyberharcèlement."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "IDÉES REÇUES · 1/2",
+    "title": "Faux !",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "« C'est un conflit entre deux élèves » : non, il y a déséquilibre et groupe.",
+     "« Les filles sont plus touchées » : non, même proportion de victimes.",
+     "« C'est un phénomène d'adolescence » : la proportion baisse au cours de la scolarité obligatoire."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "IDÉES REÇUES · 2/2",
+    "title": "Faux aussi !",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "« Ça forge le caractère » : non, détresse et risques pour la santé.",
+     "« Les harceleurs sont des jeunes en souffrance » : rarement, ils gagnent pouvoir et statut dans le groupe.",
+     "« C'est lié à l'origine sociale ou ethnique » : peu, voire pas du tout."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "CYBERHARCÈLEMENT",
+    "title": "Un prolongement",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Moins répandu que le harcèlement en face-à-face, aux causes et conséquences proches.",
+     "Possible 24 heures sur 24.",
+     "Prévenir seulement le cyber n'a guère de sens."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "CE QUI MARCHE",
+    "title": "Et ce qui ne marche pas",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Repérage, recadrage ferme et immédiat de l'auteur, prévention collective associant les familles.",
+     "L'absence de réaction aggrave le harcèlement.",
+     "Pas de protocole unique appliqué automatiquement."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Pour le jury",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Repérer avec les AED, protéger la victime, recadrer et sanctionner de façon éducative, mobiliser les témoins, informer les familles (C2, M6, CC10, CC12).",
+     "Piège : proposer une médiation à une victime de harcèlement."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "La fiche 14 complète, avec quiz",
+     "et situation de jury, gratuite"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Une lecture de la bibliographie 2026 : Le harcèlement à l'école. Mythes et réalités, de Benoît Galand (Retz, 2021). Une définition claire (déséquilibre de pouvoir, dynamique de groupe), six idées reçues démontées, le cyberharcèlement comme prolongement, et ce que la recherche valide : repérage, recadrage ferme, action collective. Le rôle du CPE : repérer, protéger la victime, recadrer l'auteur, mobiliser les témoins, informer les familles. Piège classique : proposer une médiation à une victime. Pourcentages et résultats à vérifier dans le livre avant de les citer. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Le point de départ pratique est dans la fiche 14 de Prep'CPE. Quelle idée reçue entends-tu le plus souvent en salle des professeurs ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #bibliographie2026 #galand #harcelement",
+  "title": "biblio-galand"
+ },
+ {
+  "slug": "2026-12-23-biblio-haeberli",
+  "date": "2026-12-23",
+  "fiche": null,
+  "style": "s9",
+  "styles": [
+   "s9",
+   "s12",
+   "s13",
+   "s15",
+   "s16",
+   "s7",
+   "s10",
+   "s9"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "BIBLIOGRAPHIE 2026",
+    "title": "La participation",
+    "note": "Haeberli, Pagoni et Maulini (dir.), 2017",
+    "sticker": "Lire",
+    "size": 110
+   },
+   {
+    "kind": "list",
+    "kicker": "L'OUVRAGE",
+    "title": "Effet de mode ou nécessité ?",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Ouvrage collectif dirigé par Philippe Haeberli, Maria Pagoni et Olivier Maulini (L'Harmattan, 2017).",
+     "Thèse : faire participer les élèves est une nécessité, mais la participation scolaire fonctionne mal : l'écart est grand entre valeurs affichées et pratiques."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "DEUX MODÈLES",
+    "title": "Simulacre ou affranchissement",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Maintenir l'ordre par des simulacres de représentation.",
+     "Ou offrir une implication citoyenne authentique.",
+     "Dans les lycées enquêtés, la méfiance domine : la parole des élèves, sollicitée, n'est pas écoutée."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "CE QUE DISENT LES ÉLÈVES",
+    "title": "Consultés, pas aux commandes",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "La participation est jugée peu utile, parfois « complètement toc ».",
+     "Ils ne réclament pas le pouvoir, seulement d'être consultés sur ce qui les concerne.",
+     "Une minorité s'engage, souvent par intérêt (projet d'études)."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LES DÉLÉGUÉS",
+    "title": "Représenter, ça a un coût",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Aucune démocratie sans délégation : tous participent, certains représentent.",
+     "Les délégués se sentent peu écoutés au conseil de classe et craignent un coût à s'exprimer.",
+     "Enquête auprès de 668 collégiens : punitions non réglementaires, près d'un tiers évoquent un sentiment d'humiliation."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "NUANCER",
+    "title": "Les limites",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Enquêtes anciennes (lycées enquêtés entre 1999 et 2004) et limitées.",
+     "La participation ne se décrète pas, même chez les adultes.",
+     "Ne pas attendre des élèves plus que des adultes."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Pour le jury",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Donner aux délégués un rôle précis, un retour sur les suites données, une protection contre tout coût à s'exprimer (C6).",
+     "Veiller aux règles justes et légales (C2) ; connaître les élèves et leurs attentes (CC3).",
+     "Liens : fiches 9, 10, 11, 12 et 16."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "Fiches, quiz et audios",
+     "gratuits, tous concours"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Une lecture de la bibliographie 2026 : La participation des élèves, effet de mode ou nécessité ?, sous la direction de Philippe Haeberli, Maria Pagoni et Olivier Maulini (L'Harmattan, 2017). Une nécessité qui fonctionne mal, deux modèles (simulacre ou affranchissement), ce que disent les élèves (être consultés, vraiment), la place des délégués et les limites des enquêtes citées. Le rôle du CPE : donner aux délégués un rôle précis, un retour sur les suites données et une protection. Enquêtes et chiffres à vérifier dans le livre avant de les citer. Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Que ferais-tu pour qu'un délégué se sente vraiment écouté ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #bibliographie2026 #participation #delegues",
+  "title": "biblio-haeberli"
+ },
+ {
+  "slug": "2026-12-24-reviser-vacances",
+  "date": "2026-12-24",
+  "fiche": null,
+  "style": "s10",
+  "styles": [
+   "s10",
+   "s16",
+   "s7",
+   "s9",
+   "s10",
+   "s11",
+   "s12",
+   "s10"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "VACANCES DE NOËL",
+    "title": "Bonnes fêtes",
+    "note": "Et un plan pour réviser sans t'épuiser",
+    "sticker": "Vacances",
+    "size": 120
+   },
+   {
+    "kind": "list",
+    "kicker": "D'ABORD",
+    "title": "Souffler",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Le repos fait partie de la préparation : dors, marche, retrouve tes proches.",
+     "Mieux vaut un créneau court et régulier qu'un marathon.",
+     "Une fiche bien relue vaut mieux que cinq survolées."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "EXEMPLE DE SEMAINE",
+    "title": "Quatre rendez-vous",
+    "numbered": true,
+    "small": true,
+    "lines": [
+     "Une fiche relue, puis redite à voix haute.",
+     "Un quiz de dix questions pour repérer les trous.",
+     "Une situation de jury chronométrée.",
+     "Une carte mentale de la semaine."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "À L'ÉCRIT",
+    "title": "Un sujet par semaine",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Choisis une notion : autorité, climat scolaire, participation, inégalités.",
+     "Rédige l'introduction : définition, problématique, annonce du plan.",
+     "Appuie-toi sur un auteur : son idée, et ce qu'elle change dans un EPLE."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "À L'ORAL",
+    "title": "Entraîne ta voix",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Explique une fiche en deux minutes, à voix haute.",
+     "Enregistre-toi, puis réécoute.",
+     "Pour une situation de jury : règle de droit, geste professionnel, partenaires."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "PENSE AU TERRAIN",
+    "title": "Observe ton quotidien",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Une récréation, un self, une heure de permanence : qu'est-ce qui s'y joue ?",
+     "Note ce qu'un CPE ferait, et avec quelle compétence.",
+     "Chaque observation nourrit tes copies."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Le métier que tu prépares",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Le CPE organise la vie scolaire, protège, écoute, fait participer, coopère.",
+     "À chaque fiche : une règle de droit, un geste professionnel, un partenaire.",
+     "Tu ne mémorises pas des listes : tu te prépares à agir."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "Fiches, quiz et audios",
+     "gratuits, tous concours"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Bonnes fêtes à toutes celles et ceux qui préparent le concours. Pendant les vacances, souffle d'abord : le repos fait partie de la préparation. Puis un petit plan pour réviser sans t'épuiser : une fiche redite à voix haute, un quiz, une situation de jury chronométrée, une carte mentale. À l'écrit, un sujet par semaine (définition, problématique, un auteur). À l'oral, entraîne ta voix. Et reste attentif ou attentive au terrain : chaque observation nourrit tes copies. Le CPE que tu prépares à devenir organise, protège, écoute, fait participer, coopère. Quel est ton rendez-vous de révision pendant les vacances ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #vacances #methode #bonnesfetes",
+  "title": "reviser-vacances"
+ },
+ {
+  "slug": "2026-12-25-noel-10-notions",
+  "date": "2026-12-25",
+  "fiche": 31,
+  "style": "s11",
+  "styles": [
+   "s11",
+   "s10",
+   "s11",
+   "s12",
+   "s13",
+   "s15",
+   "s16",
+   "s11"
+  ],
+  "slides": [
+   {
+    "kind": "cover",
+    "kicker": "JOYEUX NOËL · FICHE 31",
+    "title": "10 notions en une phrase",
+    "note": "Un cadeau de révision",
+    "sticker": "Noël",
+    "size": 100
+   },
+   {
+    "kind": "list",
+    "kicker": "NOTIONS 1 ET 2",
+    "title": "Autorité, sanction éducative",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Autorité : pouvoir reconnu comme légitime, qui obtient l'obéissance sans force ni persuasion (Arendt, Marcelli, Prairat).",
+     "Sanction éducative : réponse à un manquement qui vise un acte, la réparation et la réintégration (Prairat)."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "NOTIONS 3 ET 4",
+    "title": "Bienveillance, climat scolaire",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Bienveillance : attention portée à l'élève et à ses besoins, compatible avec l'exigence (Jellab et Marsollier).",
+     "Climat scolaire : qualité de vie et de relations perçue dans l'établissement (Debarbieux, Cohen)."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "NOTIONS 5 ET 6",
+    "title": "Harcèlement, décrochage",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Harcèlement : violence répétée, intentionnelle, avec déséquilibre des forces (Olweus, Galand, Catheline).",
+     "Décrochage : processus de désengagement aboutissant à une sortie sans diplôme (Bernard et Michaut)."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "NOTIONS 7 ET 8",
+    "title": "Égalité des chances, inclusion",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Égalité des chances : égalité d'accès aux positions selon le mérite, critiquée car elle légitime les inégalités (Dubet, Duru-Bellat).",
+     "Inclusion : l'école s'adapte à chaque élève, contre l'intégration où l'élève s'adapte (Ebersold, Garnier et al.)."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "NOTIONS 9 ET 10",
+    "title": "Coéducation, participation",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Coéducation : partage de la responsabilité éducative entre école et familles (Auduc, Périer).",
+     "Participation : prise de part réelle des élèves aux décisions qui les concernent (Bozec, Haeberli et al., Condette)."
+    ]
+   },
+   {
+    "kind": "list",
+    "kicker": "LE RÔLE DU CPE",
+    "title": "Relier à la fonction",
+    "numbered": false,
+    "small": true,
+    "lines": [
+     "Chaque notion renvoie à une mission : autorité et sanction (C2), climat (M6), participation (C6), coéducation (CC12).",
+     "En introduction : définir, problématiser. À l'oral : une définition, puis un exemple de terrain.",
+     "Joyeux Noël à toutes celles et ceux qui préparent le concours."
+    ]
+   },
+   {
+    "kind": "cta",
+    "title": "Prep'CPE",
+    "lines": [
+     "La fiche 31 complète, avec quiz,",
+     "situation de jury et audio, gratuite"
+    ],
+    "url": "prep-cpe.netlify.app",
+    "note": "Lien en bio"
+   }
+  ],
+  "caption": "Joyeux Noël ! Un petit cadeau de révision : dix notions à définir en une phrase, avec les auteurs à associer (autorité, sanction éducative, bienveillance, climat scolaire, harcèlement, décrochage, égalité des chances, inclusion, coéducation, participation). Une définition bien posée en introduction structure toute la copie, et à l'oral elle ouvre sur un exemple de terrain. Le rôle du CPE : chaque notion renvoie à une mission (C2, M6, C6, CC12). Toutes celles et ceux qui préparent le concours, enregistrez ce post pour vos révisions. Tout est dans la fiche 31 de Prep'CPE, avec le quiz et une situation de jury. Quelle notion as-tu le plus de mal à définir ? Dis-le en commentaire. Lien en bio.\n\n#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #noel #notions #sciencesdeleducation",
+  "title": "noel-10-notions"
  }
 ]

@@ -1,0 +1,3 @@
+Bonnes fêtes à toutes celles et ceux qui préparent le concours. Pendant les vacances, souffle d'abord : le repos fait partie de la préparation. Puis un petit plan pour réviser sans t'épuiser : une fiche redite à voix haute, un quiz, une situation de jury chronométrée, une carte mentale. À l'écrit, un sujet par semaine (définition, problématique, un auteur). À l'oral, entraîne ta voix. Et reste attentif ou attentive au terrain : chaque observation nourrit tes copies. Le CPE que tu prépares à devenir organise, protège, écoute, fait participer, coopère. Quel est ton rendez-vous de révision pendant les vacances ? Dis-le en commentaire. Lien en bio.
+
+#concourscpe #cpe2027 #prepaconcours #conseillerprincipaldeducation #viescolaire #vacances #methode #bonnesfetes
