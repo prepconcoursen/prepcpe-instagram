@@ -131,7 +131,7 @@ POSTS = [
          slides=[
              dict(kind="cover", kicker="BILAN DE LA SEMAINE", title="5 choses à retenir"),
              dict(kind="list", kicker="À RETENIR", title="Cette semaine",
-                  lines=["Les missions M1 à M7 viennent de la circulaire de 2015.", "Une punition n'est pas une sanction.", "Harcèlement : répétition, domination, isolement.",
+                  lines=["Les missions M1 à M7 (numérotation IH2EF) résument la circulaire de 2015.", "Une punition n'est pas une sanction.", "Harcèlement : répétition, domination, isolement.",
                          "Jamais de médiation entre victime et auteur.", "Une référence : auteur, idée, usage en EPLE."], small=True),
              dict(kind="scene", kicker="LE MINI-DÉFI", title="30 secondes",
                   lines=["Explique à voix haute la différence entre punition et sanction.", "Si tu bloques, la fiche 16 t'attend."]),
